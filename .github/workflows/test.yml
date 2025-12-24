@@ -22,4 +22,5 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest -q
+          python -c "import sys; print(sys.path)"
+          PYTHONPATH=. pytest -q
