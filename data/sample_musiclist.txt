@@ -1,0 +1,916 @@
+トラック名	アーティスト名	アルバム名	アルバムアーティスト名	トラックの長さ（ミリ秒）	人気度	追加者	追加日時
+summer	keshi	skeletons	keshi	165213	60	8	2021/9/11 11:41
+skeletons	keshi	skeletons	keshi	152480	64	7	2021/9/11 11:41
+2 soon	keshi	2 soon	keshi	206511	70	6	2021/9/11 11:41
+MUKANJYO	Survive Said The Prophet	MUKANJYO	Survive Said The Prophet	192400	62	5	2021/9/11 11:42
+found & lost	Survive Said The Prophet	s p a c e [ s ]	Survive Said The Prophet	188960	52	2	2021/9/11 11:42
+Right and Left	Survive Said The Prophet	s p a c e [ s ]	Survive Said The Prophet	187373	44	1	2021/9/11 11:42
+MINORS	MY FIRST STORY	"1,000,000 TIMES"	MY FIRST STORY	261680	32	1	2021/9/11 11:43
+Nomad	"Zion.T, 星野 源"	Shang-Chi and The Legend of The Ten Rings: The Album	"88rising, DJスネイク"	204173	40	6	2021/9/11 11:44
+Fire In The Sky	アンダーソン・パーク	Shang-Chi and The Legend of The Ten Rings: The Album	"88rising, DJスネイク"	201786	57	1	2021/9/11 11:44
+Every Summertime	NIKI	Shang-Chi and The Legend of The Ten Rings: The Album	"88rising, DJスネイク"	215666	43	5	2021/9/11 11:44
+War With Heaven	keshi	Shang-Chi and The Legend of The Ten Rings: The Album	"88rising, DJスネイク"	193373	58	5	2021/9/11 11:45
+California (feat. Jackson Wang & Warren Hue) - [Remix]	"88rising, Rich Brian, NIKI, Jackson Wang, Warren Hue"	California (feat. Jackson Wang & Warren Hue) [Remix]	"88rising, Rich Brian, NIKI"	273927	16	5	2021/9/11 11:45
+Lose	NIKI	MOONCHILD	NIKI	256001	0	6	2021/9/11 11:46
+Heartache	ONE OK ROCK	35xxxv	ONE OK ROCK	265133	52	7	2021/9/11 11:48
+Wherever you are	ONE OK ROCK	Nicheシンドローム	ONE OK ROCK	295600	67	6	2021/9/11 11:48
+不可逆リプレイス - Fukagyaku Replace	MY FIRST STORY	ANTITHESE	MY FIRST STORY	233733	54	3	2021/9/11 11:49
+Love Letter	MY FIRST STORY	Black Rail	MY FIRST STORY	271600	26	6	2021/9/11 11:49
+終焉レクイエム - Syuen Requiem	MY FIRST STORY	ALL SECRET TRACKS	MY FIRST STORY	222600	37	4	2021/9/11 11:50
+Renegades	ONE OK ROCK	Renegades	ONE OK ROCK	244538	49	2	2021/9/11 11:50
+C.h.a.o.s.m.y.t.h.	ONE OK ROCK	残響リファレンス	ONE OK ROCK	318426	56	5	2021/9/11 11:51
+Clock Strikes	ONE OK ROCK	人生×僕＝	ONE OK ROCK	235346	54	5	2021/9/11 11:52
+Always coming back	ONE OK ROCK	Ambitions	ONE OK ROCK	213573	45	6	2021/9/11 11:53
+Summer Paradise (feat. Taka from One OK Rock)	"シンプル・プラン, Taka from ONE OK ROCK"	Summer Paradise (feat. Taka from One OK Rock)	シンプル・プラン	234106	36	6	2021/9/11 11:55
+Be the light	ONE OK ROCK	人生×僕＝	ONE OK ROCK	338920	50	4	2021/9/11 11:55
+Pierce	ONE OK ROCK	残響リファレンス	ONE OK ROCK	265120	44	3	2021/9/11 11:55
+Re:make	ONE OK ROCK	残響リファレンス	ONE OK ROCK	204493	54	7	2021/9/11 11:55
+SLOW DANCING IN THE DARK	Joji	BALLADS 1	Joji	209273	5	8	2021/9/11 11:56
+ATTENTION	Joji	BALLADS 1	Joji	128888	1	7	2021/9/11 11:56
+Gimme Love	Joji	Nectar	Joji	214557	0	8	2021/9/11 11:57
+Lemon	米津玄師	STRAY SHEEP	米津玄師	255826	73	7	2021/9/11 11:58
+死神	米津玄師	Pale Blue	米津玄師	180709	54	2	2021/9/11 11:58
+アイネクライネ	米津玄師	YANKEE	米津玄師	288013	70	6	2021/9/11 11:58
+花に嵐	米津玄師	YANKEE	米津玄師	284560	46	5	2021/9/11 11:58
+海と山椒魚	米津玄師	YANKEE	米津玄師	313506	48	1	2021/9/11 11:58
+ドーナツホール - COVER	米津玄師	YANKEE	米津玄師	205093	56	4	2021/9/11 11:58
+PLACEBO ＋ 野田洋次郎	"米津玄師, 野田洋次郎"	STRAY SHEEP	米津玄師	240253	55	3	2021/9/11 11:58
+海の幽霊	米津玄師	STRAY SHEEP	米津玄師	234466	60	5	2021/9/11 11:58
+翡翠の狼	米津玄師	orion	米津玄師	230546	46	4	2021/9/11 11:59
+鳥にでもなりたい	米津玄師	MAD HEAD LOVE／ポッピンアパシー	米津玄師	162533	38	3	2021/9/11 11:59
+カタオモイ	Aimer	daydream	Aimer	207360	67	8	2021/9/11 12:00
+SPARK-AGAIN	Aimer	Walpurgis	Aimer	242733	56	2	2021/9/11 12:00
+地球儀	"Aimer, Vaundy"	Walpurgis	Aimer	232786	44	6	2021/9/11 12:00
+insane dream	Aimer	daydream	Aimer	253120	35	6	2021/9/11 12:00
+ninelie	"Aimer, Chelly"	daydream	Aimer	261773	53	5	2021/9/11 12:00
+for ロンリー	"Aimer, 阿部真央"	daydream	Aimer	291573	32	3	2021/9/11 12:01
+蝶々結び	Aimer	daydream	Aimer	305333	55	3	2021/9/11 12:01
+Torches	Aimer	Torches	Aimer	294346	29	5	2021/9/11 12:01
+Blind to you	Aimer	Torches	Aimer	281560	27	5	2021/9/11 12:01
+I beg you	Aimer	Penny Rain	Aimer	267213	51	4	2021/9/11 12:01
+セプテンバーさん	RADWIMPS	RADWIMPS 3 ～無人島に持っていき忘れた一枚～	RADWIMPS	307173	64	6	2021/9/11 12:02
+セプテンバーさん	Aimer	蝶々結び	Aimer	302960	44	8	2021/9/11 12:02
+春はゆく	Aimer	花の唄 / I beg you / 春はゆく	Aimer	306386	35	7	2021/9/11 12:03
+Sailing	Aimer	Penny Rain	Aimer	335973	39	8	2021/9/11 12:03
+コイワズライ	Aimer	Sun Dance	Aimer	235160	55	5	2021/9/11 12:03
+今日から思い出 Evergreen ver.	Aimer	Black Bird / Tiny Dancers / 思い出は奇麗で	Aimer	302760	29	1	2021/9/11 12:04
+花びらたちのマーチ	Aimer	Sun Dance	Aimer	193400	44	2	2021/9/11 12:04
+花の唄	Aimer	Penny Rain	Aimer	371426	46	6	2021/9/11 12:04
+思い出は奇麗で	Aimer	Sun Dance	Aimer	209813	0	5	2021/9/11 12:04
+March of Time	Aimer	"BEST SELECTION ""blanc"""	Aimer	296600	0	8	2021/9/11 12:04
+After Rain	Aimer	After Dark	Aimer	292760	46	7	2021/9/11 12:05
+Stars in the rain	Aimer	daydream	Aimer	302266	35	1	2021/9/11 12:05
+my sweetest one	Aimer	broKen NIGHT / holLow wORlD	Aimer	279640	27	4	2021/9/11 12:05
+六等星の夜	Aimer	"BEST SELECTION ""blanc"""	Aimer	337920	31	3	2021/9/11 12:05
+ONE	Aimer	Sun Dance	Aimer	328493	46	7	2021/9/11 12:06
+糸	Aimer	ONE / 花の唄 / 六等星の夜 Magic Blue ver.	Aimer	223946	31	3	2021/9/11 12:06
+バナナフィッシュの浜辺と黒い虹	"Galileo Galilei, Aimer"	See More Glass	Galileo Galilei	282693	35	2	2021/9/11 12:06
+歌鳥風月	Aimer	"BEST SELECTION ""blanc"""	Aimer	344626	32	8	2021/9/11 12:07
+LAST STARDUST	Aimer	DAWN	Aimer	318666	55	3	2021/9/11 12:07
+Drive Safe	Rich Brian	The Sailor	Rich Brian	240118	0	4	2021/9/11 12:07
+Love In My Pocket	Rich Brian	Love In My Pocket (Weird Genius Remix)	"Rich Brian, Weird Genius"	223093	0	6	2021/9/11 12:08
+La La Lost You	"88rising, NIKI"	Head In The Clouds II	88rising	200000	0	6	2021/9/11 12:08
+La La Lost You - Acoustic Version	"NIKI, 88rising"	NIKI Acoustic Sessions: Head In The Clouds II	"NIKI, 88rising"	208510	1	1	2021/9/11 12:08
+I Love You 3000 II	"88rising, Stephanie Poetri, Jackson Wang"	Head In The Clouds II	88rising	209642	0	8	2021/9/11 12:09
+Need Is Your Love	"88rising, Joji, GENERATIONS from EXILE TRIBE"	Head In The Clouds II	88rising	158837	0	1	2021/9/11 12:09
+Shouldn't Couldn't Wouldn't	"88rising, NIKI, Rich Brian"	Head In The Clouds II	88rising	195052	0	2	2021/9/11 12:09
+Indigo	"88rising, NIKI"	Head In The Clouds II	88rising	173473	0	8	2021/9/11 12:09
+火炎	女王蜂	火炎(Full Edition)	女王蜂	215973	59	2	2021/9/11 12:09
+催眠術	女王蜂	催眠術	女王蜂	222278	44	8	2021/9/11 12:10
+HALF	女王蜂	HALF(Full Edition)	女王蜂	238186	45	7	2021/9/11 12:10
+まちがいさがし	菅田 将暉	LOVE	菅田 将暉	223640	65	5	2021/9/11 12:10
+さよならエレジー	菅田 将暉	PLAY(Special Edition)	菅田 将暉	257066	68	8	2021/9/11 12:10
+灰色と青 ( + 菅田将暉 )	"米津玄師, 菅田 将暉"	BOOTLEG	米津玄師	332131	66	8	2021/9/11 12:10
+クローバー	菅田 将暉	LOVE	菅田 将暉	287986	39	5	2021/9/11 12:10
+ロングホープ・フィリア	菅田 将暉	LOVE	菅田 将暉	295800	54	4	2021/9/11 12:10
+つもる話	菅田 将暉	LOVE	菅田 将暉	242320	23	5	2021/9/11 12:10
+キスだけで	"菅田 将暉, あいみょん"	LOVE	菅田 将暉	227480	40	6	2021/9/11 12:10
+りびんぐでっど	菅田 将暉	LOVE	菅田 将暉	278920	29	1	2021/9/11 12:10
+あいつとその子	菅田 将暉	LOVE	菅田 将暉	241986	26	5	2021/9/11 12:10
+見たこともない景色	菅田 将暉	PLAY(Special Edition)	菅田 将暉	221693	51	5	2021/9/11 12:11
+スプリンター	菅田 将暉	PLAY(Special Edition)	菅田 将暉	336280	25	8	2021/9/11 12:11
+呼吸	菅田 将暉	PLAY(Special Edition)	菅田 将暉	248773	31	5	2021/9/11 12:11
+ばかになっちゃったのかな	菅田 将暉	PLAY(Special Edition)	菅田 将暉	308360	42	4	2021/9/11 12:11
+ソフトビニールフィギア	菅田 将暉	ロングホープ・フィリア	菅田 将暉	254506	27	8	2021/9/11 12:11
+いいんだよ、きっと	菅田 将暉	PLAY(Special Edition)	菅田 将暉	363293	35	3	2021/9/11 12:12
+空に歌えば	amazarashi	地方都市のメメント・モリ	amazarashi	217626	62	7	2021/9/11 12:12
+さよならごっこ	amazarashi	ボイコット	amazarashi	272613	47	2	2021/9/11 12:12
+僕が死のうと思ったのは	amazarashi	メッセージボトル	amazarashi	367693	43	4	2021/9/11 12:12
+令和二年	amazarashi	令和二年	amazarashi	275146	24	7	2021/9/11 12:12
+拒否オロジー	amazarashi	ボイコット	amazarashi	173226	22	8	2021/9/11 12:13
+とどめを刺して	amazarashi	ボイコット	amazarashi	259493	33	1	2021/9/11 12:13
+夕立旅立ち	amazarashi	ボイコット	amazarashi	270800	27	1	2021/9/11 12:13
+帰ってこいよ	amazarashi	ボイコット	amazarashi	367253	33	7	2021/9/11 12:13
+月曜日	amazarashi	ボイコット	amazarashi	368640	37	2	2021/9/11 12:13
+アルカホール	amazarashi	ボイコット	amazarashi	315946	25	2	2021/9/11 12:13
+マスクチルドレン	amazarashi	ボイコット	amazarashi	329186	24	3	2021/9/11 12:13
+抒情死	amazarashi	ボイコット	amazarashi	277506	23	5	2021/9/11 12:13
+死んでるみたいに眠ってる	amazarashi	ボイコット	amazarashi	298560	22	5	2021/9/11 12:13
+リビングデッド	amazarashi	ボイコット	amazarashi	293360	34	4	2021/9/11 12:13
+独白	amazarashi	ボイコット	amazarashi	306786	26	7	2021/9/11 12:13
+未来になれなかったあの夜に (Long Edit.)	amazarashi	ボイコット	amazarashi	432120	28	5	2021/9/11 12:13
+そういう人になりたいぜ	amazarashi	ボイコット	amazarashi	358306	26	4	2021/9/11 12:13
+あんたへ	amazarashi	あんたへ	amazarashi	382626	26	5	2021/9/11 12:13
+令和二年	amazarashi	令和二年、雨天決行	amazarashi	275146	20	5	2021/9/11 12:13
+世界の解像度	amazarashi	令和二年、雨天決行	amazarashi	289386	25	5	2021/9/11 12:13
+太陽の羽化	amazarashi	令和二年、雨天決行	amazarashi	146986	19	4	2021/9/11 12:13
+馬鹿騒ぎはもう終わり	amazarashi	令和二年、雨天決行	amazarashi	324546	25	4	2021/9/11 12:13
+曇天	amazarashi	令和二年、雨天決行	amazarashi	290786	22	8	2021/9/11 12:13
+未来になれなかったあの夜に	amazarashi	未来になれなかったあの夜に	amazarashi	403196	35	1	2021/9/11 12:13
+月が綺麗	amazarashi	リビングデッド	amazarashi	314266	22	4	2021/9/11 12:14
+リビングデッド	amazarashi	リビングデッド	amazarashi	291920	16	5	2021/9/11 12:14
+月曜日	amazarashi	月曜日	amazarashi	367785	21	1	2021/9/11 12:14
+うたかた歌	"RADWIMPS, 菅田 将暉"	うたかた歌	RADWIMPS	350626	40	4	2021/9/11 12:14
+そっけない	RADWIMPS	ANTI ANTI GENERATION	RADWIMPS	392426	68	5	2021/9/11 12:14
+泣き出しそうだよ	"RADWIMPS, あいみょん"	ANTI ANTI GENERATION	RADWIMPS	280760	49	1	2021/9/11 12:15
+me me she	RADWIMPS	RADWIMPS 4 ～おかずのごはん～	RADWIMPS	281493	70	1	2021/9/11 12:15
+有心論	RADWIMPS	RADWIMPS 4 ～おかずのごはん～	RADWIMPS	250840	61	8	2021/9/11 12:15
+いいんですか?	RADWIMPS	RADWIMPS 4 ～おかずのごはん～	RADWIMPS	248133	65	4	2021/9/11 12:15
+指切りげんまん	RADWIMPS	RADWIMPS 4 ～おかずのごはん～	RADWIMPS	244800	49	4	2021/9/11 12:15
+ます。	RADWIMPS	RADWIMPS 4 ～おかずのごはん～	RADWIMPS	135800	52	7	2021/9/11 12:15
+バグッバイ	RADWIMPS	RADWIMPS 4 ～おかずのごはん～	RADWIMPS	398480	51	1	2021/9/11 12:15
+泣きたい夜ってこんな感じ	RADWIMPS	RADWIMPS 4 ～おかずのごはん～	RADWIMPS	130253	42	5	2021/9/11 12:15
+夢番地	RADWIMPS	RADWIMPS 4 ～おかずのごはん～	RADWIMPS	301266	56	3	2021/9/11 12:15
+裸の心	あいみょん	おいしいパスタがあると聞いて	あいみょん	296653	68	5	2021/9/11 12:16
+マリーゴールド	あいみょん	瞬間的シックスセンス	あいみょん	306626	73	6	2021/9/11 12:16
+君はロックを聴かない	あいみょん	青春のエキサイトメント	あいみょん	246306	70	8	2021/9/11 12:16
+きみの名前	藤川千愛	ライカ (Special Edition)	藤川千愛	301000	46	3	2021/9/11 12:16
+あたしが隣にいるうちに	藤川千愛	ライカ (Special Edition)	藤川千愛	355466	46	7	2021/9/11 12:16
+夢なんかじゃ飯は喰えないと誰かのせいにして	藤川千愛	ライカ (Special Edition)	藤川千愛	277106	27	1	2021/9/11 12:16
+ノンフィクション	平井堅	Ken Hirai Singles Best Collection 歌バカ 2	平井堅	272280	51	3	2021/9/11 12:18
+君の好きなとこ	平井堅	FAKIN' POP	平井堅	327693	54	6	2021/9/11 12:18
+青空傘下	平井堅	グロテスク	平井堅	330746	10	8	2021/9/11 12:18
+#302	平井堅	#302	平井堅	268866	29	8	2021/9/11 12:19
+いてもたっても	平井堅	いてもたっても	平井堅	202895	15	6	2021/9/11 12:19
+いとしき日々よ	平井堅	Ken Hirai Singles Best Collection 歌バカ 2	平井堅	362026	45	8	2021/9/11 12:19
+トドカナイカラ	平井堅	トドカナイカラ	平井堅	247066	36	2	2021/9/11 12:19
+夏恋慕 (feat. 春茶)	"kobasolo, 春茶"	夏恋慕 (feat. 春茶)	kobasolo	267888	22	4	2021/9/11 12:19
+点描の唄	"Mrs. GREEN APPLE, 井上苑子"	青と夏	Mrs. GREEN APPLE	307066	76	4	2021/9/11 12:19
+ドライフラワー	優里	ドライフラワー	優里	285586	64	3	2021/9/11 12:20
+春愁	Mrs. GREEN APPLE	"Love me, Love you"	Mrs. GREEN APPLE	183800	68	5	2021/9/11 12:20
+僕のこと	Mrs. GREEN APPLE	Attitude	Mrs. GREEN APPLE	321306	74	6	2021/9/11 12:20
+青と夏	Mrs. GREEN APPLE	Attitude	Mrs. GREEN APPLE	270026	74	5	2021/9/11 12:20
+インフェルノ	Mrs. GREEN APPLE	Attitude	Mrs. GREEN APPLE	211600	73	3	2021/9/11 12:20
+愛をこめて花束を	Superfly	Superfly	Superfly	295600	70	1	2021/9/11 12:21
+Gifts	Superfly	0	Superfly	272120	40	1	2021/9/11 12:21
+歌舞伎町の女王	椎名林檎	無罪モラトリアム	椎名林檎	173466	58	8	2021/9/11 12:21
+人生は夢だらけ	椎名林檎	逆輸入 〜航空局〜	椎名林檎	194240	62	8	2021/9/11 12:21
+丸ノ内サディスティック	椎名林檎	無罪モラトリアム	椎名林檎	235866	68	8	2021/9/11 12:21
+Not Angry	Chris James	Not Angry	Chris James	199687	54	2	2021/9/11 12:22
+The Green	Chris James	The Art of Overthinking	Chris James	169218	42	6	2021/9/11 12:23
+Make the Move	Chris James	MELLOW!	Chris James	175813	0	7	2021/9/11 12:23
+I Never Learned	Chris James	The Art of Overthinking	Chris James	152000	38	6	2021/9/11 12:24
+Summertime Madness	Chris James	Summertime Madness	Chris James	206653	0	5	2021/9/11 12:24
+Dirty Water	Marc E. Bassy	Groovy People	Marc E. Bassy	161106	46	6	2021/9/11 12:24
+Breathe Again	アンジェラ (Vo. Alisa)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2	ヴァリアス・アーティスト	246866	33	5	2021/9/11 12:27
+Day By Day	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2	ヴァリアス・アーティスト	206266	33	5	2021/9/11 12:27
+After the fire	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2	ヴァリアス・アーティスト	228666	35	4	2021/9/11 12:27
+Give You The World	フローラ(Vo.Jessica Karpov)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.2	ヴァリアス・アーティスト	203666	38	5	2021/9/11 12:27
+Kiss Me	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	Kiss Me/Hold Me Now	キャロル&チューズデイ(Vo.Nai Br.XX&Celeina Ann)	240800	42	2	2021/9/11 12:27
+Unbreakable	クリスタル(Vo.Lauren Dyson)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1	ヴァリアス・アーティスト	214933	37	8	2021/9/11 12:28
+Love Yourself	ピョートル(Vo. J R Price)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1	ヴァリアス・アーティスト	200466	30	1	2021/9/11 12:28
+You & I	milet	eyes	milet	226626	44	5	2021/9/11 12:29
+オーダーメイド	RADWIMPS	アルトコロニーの定理	RADWIMPS	356813	50	6	2021/9/11 12:29
+灯火	Vaundy	strobo	Vaundy	178892	0	7	2021/9/11 12:29
+Follow	Survive Said The Prophet	FIXED	Survive Said The Prophet	232480	36	5	2021/9/11 12:29
+朝焼けと熱帯魚	ぼくのりりっくのぼうよみ	Fruits Decaying	ぼくのりりっくのぼうよみ	246946	38	2	2021/9/11 12:29
+s t i l l b e l i e v e	Survive Said The Prophet	s p a c e [ s ]	Survive Said The Prophet	300973	26	5	2021/9/11 12:29
+Rain - Long Ver.	秦 基博	言ノ葉	秦 基博	447306	38	5	2021/9/11 12:30
+Love Letter	MY FIRST STORY	THE PREMIUM SYMPHONY	MY FIRST STORY	290733	28	1	2021/9/11 12:30
+全部アナタのせいなんだ	I Don't Like Mondays.	Black Humor	I Don't Like Mondays.	229844	35	5	2021/9/11 12:30
+僕が死のうと思ったのは	中島美嘉	DEARS	中島美嘉	382853	53	2	2021/9/11 12:30
+My Heart Is Open	"マルーン５, グウェン・ステファニー"	V (Deluxe)	マルーン５	237093	23	1	2021/9/11 20:39
+Lost Stars	アダム・レヴィーン	V Japan Special Edition	マルーン５	266986	29	6	2021/9/11 20:40
+HANABI	Mr.Children	SUPERMARKET FANTASY	Mr.Children	342773	61	7	2021/9/11 20:40
+水平線	back number	水平線	back number	285396	63	1	2021/9/11 20:40
+高嶺の花子さん	back number	ラブストーリー	back number	294813	76	4	2021/9/11 20:40
+HAPPY BIRTHDAY	back number	MAGIC	back number	258333	76	1	2021/9/11 20:41
+花束	back number	スーパースター	back number	286053	77	3	2021/9/11 20:41
+HANABI feat.春茶	"kobasolo, 春茶"	これくしょん２	kobasolo	334053	0	5	2021/9/11 20:41
+花火	the peggies	センチメートル	the peggies	293173	32	5	2021/9/11 20:42
+君のせい	the peggies	Hell like Heaven	the peggies	263066	56	5	2021/9/11 20:42
+スタンドバイミー	the peggies	スタンドバイミー	the peggies	277156	28	7	2021/9/11 20:42
+センチメートル	the peggies	センチメートル	the peggies	227040	47	3	2021/9/11 20:42
+Mistletoe	ジャスティン・ビーバー	Under The Mistletoe (Deluxe Edition)	ジャスティン・ビーバー	182946	61	7	2021/9/11 20:42
+西藤公園	back number	逃した魚	back number	341066	0	4	2021/9/11 20:45
+サマーワンダーランド	back number	MAGIC	back number	218400	51	5	2021/9/11 20:45
+瞬き	back number	MAGIC	back number	325040	71	4	2021/9/11 20:45
+ARTIST	back number	MAGIC	back number	228093	44	2	2021/9/11 20:45
+雨と僕の話	back number	MAGIC	back number	233986	62	8	2021/9/11 20:45
+ロンリネス	back number	MAGIC	back number	283466	43	1	2021/9/11 20:45
+monaural fantasy	back number	MAGIC	back number	191173	44	8	2021/9/11 20:45
+大不正解	back number	MAGIC	back number	211213	61	4	2021/9/11 20:45
+ささえる人の歌	back number	blues	back number	252413	60	8	2021/9/11 20:46
+ハッピーエンド	back number	ハッピーエンド	back number	314280	76	8	2021/9/11 20:46
+クリスマスソング	back number	クリスマスソング	back number	340720	51	5	2021/9/11 20:46
+わたがし	back number	わたがし	back number	261640	44	1	2021/9/11 20:46
+花束	back number	花束	back number	285813	41	2	2021/9/11 20:46
+半透明人間	back number	花束	back number	187946	30	7	2021/9/11 20:46
+電車の窓から	back number	アンコール	back number	292360	50	5	2021/9/11 20:47
+アップルパイ	back number	アンコール	back number	160880	46	2	2021/9/11 20:47
+幸せ	back number	アンコール	back number	397266	65	5	2021/9/11 20:47
+LAST TEXT	Jake Miller	SUMMER 19	Jake Miller	174898	35	3	2021/9/11 20:48
+Parties	Jake Miller	2:00am in LA	Jake Miller	169866	44	7	2021/9/11 20:48
+WHAT IF YOU FELL IN LOVE?	Jake Miller	BASED ON A TRUE STORY. (EXTENDED)	Jake Miller	198483	34	2	2021/9/11 20:49
+花火	aiko	桜の木の下	aiko	278973	63	2	2021/9/11 20:49
+恋におちて -Fall in Love-	德永英明	VOCALIST 3	德永英明	330733	49	8	2021/9/11 20:50
+いかないで - Live at Nagoya Century Hall / 2014	"德永英明, 玉置浩二"	STATEMENT TOUR FINAL at NAGOYA CENTURY HALL	德永英明	293013	34	2	2021/9/11 20:51
+Is It Just Me?	Sasha Alex Sloan	Is It Just Me?	Sasha Alex Sloan	215040	39	2	2021/9/11 20:52
+星々の葬列	amazarashi	虚無病	amazarashi	295506	21	5	2021/9/11 20:54
+紅	湘南乃風	湘南乃風 〜COME AGAIN〜	湘南乃風	377226	31	3	2021/9/11 20:54
+S P I N E	Survive Said The Prophet	s p a c e [ s ]	Survive Said The Prophet	209000	33	7	2021/9/11 20:56
+記憶の箱舟	伊東歌詞太郎	TVアニメ「デカダンス」エンディングテーマ「記憶の箱舟」	伊東歌詞太郎	252100	23	6	2021/9/11 20:56
+若き日の望楼	大貫妙子	ROMANTIQUE	大貫妙子	235866	0	3	2021/9/11 20:57
+鉄道員（Poppoya）	"大貫妙子, 坂本龍一"	UTAU	"大貫妙子, 坂本龍一"	334080	29	1	2021/9/11 20:57
+まっ白	小田和正	そうかな	小田和正	263866	40	5	2021/9/11 20:58
+ラブ・ストーリーは突然に	小田和正	自己ベスト	小田和正	295080	57	8	2021/9/11 20:59
+Yes-No	小田和正	自己ベスト	小田和正	266960	26	5	2021/9/11 20:59
+papacito	Alaina Castillo	antisocial butterfly	Alaina Castillo	185409	11	2	2021/9/11 21:00
+2002	アン・マリー	Speak Your Mind (Deluxe)	アン・マリー	186986	80	1	2021/9/11 21:01
+LEMONADE	I Don't Like Mondays.	FUTURE	I Don't Like Mondays.	229213	40	7	2021/9/11 21:01
+Listening	Survive Said The Prophet	WABI SABI	Survive Said The Prophet	259893	28	2	2021/9/11 21:02
+UPLIFTED	Survive Said The Prophet	found & lost	Survive Said The Prophet	234000	11	7	2021/9/11 21:04
+RED	Survive Said The Prophet	RED	Survive Said The Prophet	253893	48	3	2021/9/11 21:04
+lost & found	Survive Said The Prophet	RED	Survive Said The Prophet	175906	27	2	2021/9/11 21:04
+To Whom	"Supper Moment, Survive Said The Prophet"	To Whom	"Supper Moment, Survive Said The Prophet"	288238	24	1	2021/9/11 21:04
+Look What I Found	レディー・ガガ	A Star Is Born Soundtrack	"レディー・ガガ, Bradley Cooper"	175240	57	4	2021/9/11 21:07
+Shallow	"レディー・ガガ, Bradley Cooper"	A Star Is Born Soundtrack	"レディー・ガガ, Bradley Cooper"	215733	85	3	2021/9/11 21:07
+事実愛	"ヒルクライム, 仲宗根泉"	MOON ～リメイクベスト2～	ヒルクライム	250453	42	4	2021/9/11 21:08
+冬の花	宮本浩次	冬の花	宮本浩次	240613	44	1	2021/9/11 21:08
+ヨリドコロ	ヒルクライム	THE MC	ヒルクライム	269013	20	7	2021/9/11 21:09
+ヒトリゴト	ClariS	ヒトリゴト	ClariS	235093	34	6	2021/9/11 21:10
+愛言葉III	DECO*27	アンドロイドガール	DECO*27	246333	0	7	2021/9/11 21:10
+蕾(つぼみ)	コブクロ	ALL SINGLES BEST 2	コブクロ	363853	49	4	2021/9/11 21:11
+Christmas in Tokyo	セレイナ・アン	Christmas in Tokyo	セレイナ・アン	245657	7	7	2021/9/11 21:13
+Bansaku neender(男性ver.)	"ポプ子(CV:伊東健人), ピピ美(CV:木島隆一)"	ポプテピピック ALL TIME BEST2	ポプテピピック ALL TIME BEST	63733	4	5	2021/9/11 21:13
+Key To Your Heart	"セレイナ・アン, マット・キャブ"	We Are One	セレイナ・アン	286880	7	8	2021/9/11 21:15
+Koi	androp	Koi	androp	274120	42	7	2021/9/11 21:15
+Voice	Pay money To my Pain	gene	Pay money To my Pain	485880	0	8	2021/9/11 21:15
+Rescue Me	ワンリパブリック	Rescue Me	ワンリパブリック	158899	64	4	2021/9/11 21:16
+イエスタデイ	Official髭男dism	Traveler	Official髭男dism	299164	63	2	2021/9/11 21:17
+115万キロのフィルム	Official髭男dism	エスカパレード	Official髭男dism	324633	68	3	2021/9/11 21:17
+Pretender	Official髭男dism	Pretender	Official髭男dism	326440	58	8	2021/9/11 21:17
+Speechless	Dan + Shay	Dan + Shay	Dan + Shay	213386	68	7	2021/9/11 21:18
+London	Mokita	London	Mokita	160225	51	7	2021/9/11 21:18
+Talking to the Moon	ブルーノ・マーズ	Doo-Wops & Hooligans	ブルーノ・マーズ	217866	78	3	2021/9/11 21:18
+Teo Torriatte (Let Us Cling Together)	クイーン	Greatest Hits (Remastered)	クイーン	307573	26	4	2021/9/11 21:19
+Life Is Wonderful - Live in Amsterdam	ジェイソン・ムラーズ	We Sing. We Dance. We Steal Things. (Bonus Tracks Version)	ジェイソン・ムラーズ	275330	27	5	2021/9/11 21:20
+Yukiyanagi （Album Version）	Micro	MAX OUT	Micro	237626	28	5	2021/9/11 21:20
+P.D.A. (We Just Don't Care)	ジョン・レジェンド	Once Again	ジョン・レジェンド	278725	55	5	2021/9/11 21:20
+Overload (feat. Miguel)	"ジョン・レジェンド, Miguel"	DARKNESS AND LIGHT	ジョン・レジェンド	200294	40	7	2021/9/11 21:21
+Like I'm Gonna Lose You (feat. John Legend)	"メーガン・トレイナー, ジョン・レジェンド"	Title (Deluxe)	メーガン・トレイナー	225635	73	5	2021/9/11 21:21
+Stay With Me	サム・スミス	In The Lonely Hour	サム・スミス	172723	83	7	2021/9/11 21:21
+I'm Not The Only One	サム・スミス	In The Lonely Hour	サム・スミス	239316	86	3	2021/9/11 21:22
+Beauty and the Beast	"アリアナ・グランデ, ジョン・レジェンド"	Beauty and the Beast (Original Motion Picture Soundtrack/Japanese Version)	ヴァリアス・アーティスト	227933	51	3	2021/9/11 21:22
+Start A Fire	ジョン・レジェンド	La La Land - The Complete Musical Experience	ヴァリアス・アーティスト	190951	30	7	2021/9/11 21:22
+Tell me	milet	eyes	milet	223013	47	4	2021/9/11 21:23
+雪月花	湘南乃風	湘南乃風 〜2023〜	湘南乃風	346013	27	2	2021/9/11 21:23
+春夏秋冬	sumika	Chime	sumika	278040	42	3	2021/9/11 21:26
+staple stable	物語シリーズ	歌物語 Special Edition	物語シリーズ	275266	40	2	2021/9/11 21:26
+君の知らない物語	supercell	歌物語 Special Edition	物語シリーズ	344053	31	3	2021/9/11 21:26
+sugar sweet nightmare	物語シリーズ	歌物語 Special Edition	物語シリーズ	271146	35	5	2021/9/11 21:26
+Sunflower - Spider-Man: Into the Spider-Verse	"ポスト・マローン, スワエ・リー"	Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)	ヴァリアス・アーティスト	158040	83	1	2021/9/11 21:27
+Invincible	Aminé	Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)	ヴァリアス・アーティスト	196386	58	2	2021/9/11 21:28
+Memories	Thutmose	Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)	ヴァリアス・アーティスト	199146	55	7	2021/9/11 21:28
+Scared of the Dark (feat. XXXTENTACION)	"リル・ウェイン, タイ･ダラー･サイン, XXXTENTACION"	Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)	ヴァリアス・アーティスト	233000	71	4	2021/9/11 21:28
+Hide (feat. Seezyn)	"Juice WRLD, Seezyn"	Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)	ヴァリアス・アーティスト	205800	74	7	2021/9/11 21:28
+drop pop candy (feat. ギガ)	"Reol, Giga"	No title-	Reol	224962	53	5	2021/9/11 21:29
+十中八九	Reol	事実上(Special edition)	Reol	225600	38	7	2021/9/11 21:30
+Revival	スキマスイッチ	新空間アルゴリズム	スキマスイッチ	273066	43	4	2021/9/11 21:31
+Sincerely	TRUE	Lonely Queen's Liberation Party	TRUE	275800	1	8	2021/9/11 21:31
+湾岸高速	卍LINE	TIME WAVE	卍LINE	298960	3	5	2021/9/11 21:33
+STAND-ALONE	Aimer	Walpurgis	Aimer	285826	44	2	2021/9/11 21:35
+猫	DISH//	僕たちがやりました	DISH//	276040	66	6	2021/9/11 21:35
+サヨナラムーンタウン	シナリオアート	サヨナラムーンタウン	シナリオアート	230253	43	6	2021/9/11 21:38
+ハートシグナル	羽多野渉	ひとりじめマイヒーロー OP 「ハートシグナル」	羽多野渉	231693	22	4	2021/9/11 21:38
+i swear i'll never leave again	keshi	THE REAPER	keshi	173716	63	4	2021/9/25 12:21
+Ross And Rachel	Jake Miller	Silver Lining II	Jake Miller	192980	50	7	2021/9/25 12:39
+阿修羅小町 - Full Spec Edition	幾松(平野綾)	龍が如くシリーズ･カラオケ定番曲コレクション(龍が如く7 光と闇の行方)	SEGA SOUND TEAM	242576	3	8	2021/9/25 22:40
+Midsummer Madness	"88rising, Joji, Rich Brian"	Head In The Clouds	88rising	280841	1	1	2021/9/26 23:07
+黄色	back number	黄色	back number	297997	52	1	2021/9/27 11:06
+Too Sad To Cry	Sasha Alex Sloan	Self Portrait	Sasha Alex Sloan	208990	58	5	2021/9/27 11:14
+STAR CITY CAFE	"hevel, Evito"	STAR CITY CAFE	"hevel, Evito"	139780	0	5	2021/9/27 11:22
+Stuck with U (with Justin Bieber)	"アリアナ・グランデ, ジャスティン・ビーバー"	Stuck with U	"アリアナ・グランデ, ジャスティン・ビーバー"	228482	82	8	2021/9/27 11:27
+COULD HAVE BEEN YOU	Jake Miller	SUMMER 19	Jake Miller	202281	39	6	2021/9/27 11:48
+Don't Let Me	Jake Scott	Don't Let Me	Jake Scott	222865	30	3	2021/9/27 11:59
+Off	Jake Scott	Off	Jake Scott	165604	38	8	2021/9/27 12:04
+positions	アリアナ・グランデ	Positions	アリアナ・グランデ	172324	80	2	2021/9/27 12:06
+time machine	"mj apanay, aren park"	seen 11:23 pm	mj apanay	225933	0	5	2021/9/30 16:08
+"dear me,"	Gentle Bones	"dear me,"	Gentle Bones	165967	46	8	2021/9/30 16:27
+I GUESS I'M IN LOVE	Clinton Kane	I GUESS I'M IN LOVE	Clinton Kane	204093	66	6	2021/9/30 17:52
+コンタクトケース	Saucy Dog	サラダデイズ	Saucy Dog	286493	60	2	2021/9/30 18:09
+No Time To Die	ビリー・アイリッシュ	No Time To Die	ビリー・アイリッシュ	242265	77	4	2021/10/2 20:58
+On My Own	岩崎太整	TVアニメ「血界戦線」オリジナル・サウンドトラック	岩崎太整	271586	25	6	2021/10/4 10:35
+World Goes Round	岩崎太整	TVアニメ「血界戦線」オリジナル・サウンドトラック	岩崎太整	198813	22	5	2021/10/4 10:37
+神室純恋歌 [Full Spec Edition] 秋山 駿(山寺 宏一)&花(平野 綾)		神室純恋歌 [Full Spec Edition] 秋山 駿(山寺 宏一)&花(平野 綾)		258000	0	2	2021/10/8 22:13
+amazarashi - 初雪		amazarashi - 初雪		317000	0	2	2021/10/8 22:16
+WALK - movie ver.	ビッケブランカ	夏の夢/WALK	ビッケブランカ	224280	37	7	2021/10/8 22:19
+rain drops - Full Spec Edition	花(平野綾)	龍が如くシリーズ･カラオケ定番曲コレクション(龍が如く7 光と闇の行方)	SEGA SOUND TEAM	325533	17	3	2021/10/8 22:26
+境界線	amazarashi	境界線	amazarashi	293824	50	3	2021/10/10 10:13
+BOY	King Gnu	BOY	King Gnu	231385	55	3	2021/10/21 12:58
+Winding Road	MAN WITH A MISSION	Chasing the Horizon	MAN WITH A MISSION	223573	48	4	2021/10/27 20:18
+Fly with me	ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ	THE MILLENNIUM PARADE	MILLENNIUM PARADE	276253	0	4	2021/10/29 9:57
+Yes-No	小田和正	あの日 あの時	小田和正	297573	36	5	2021/11/8 18:40
+メロディー	玉置浩二	田園 KOJI TAMAKI BEST	玉置浩二	276533	23	4	2021/11/8 18:52
+青春狂騒曲	サンボマスター	サンボマスターは君に語りかける	サンボマスター	286186	0	1	2021/11/8 19:27
+うたかた花火	supercell	うたかた花火／星が瞬くこんな夜に	supercell	361506	47	5	2021/11/8 19:30
+自転車	オレスカバンド	自転車	オレスカバンド	209773	39	8	2021/11/8 19:30
+真夜中のオーケストラ	Aqua Timez	真夜中のオーケストラ	Aqua Timez	353933	28	7	2021/11/8 19:31
+虹	真空ホロウ	虹	真空ホロウ	257186	35	3	2021/11/8 19:31
+花瓶の花	石崎ひゅーい	花瓶の花	石崎ひゅーい	322000	33	2	2021/11/8 19:32
+天国電話	石崎ひゅーい	花瓶の花	石崎ひゅーい	311226	16	2	2021/11/8 19:32
+夜間飛行	石崎ひゅーい	独立前夜	石崎ひゅーい	248906	24	1	2021/11/8 19:33
+マシ・マシ	NICO Touches the Walls	マシ・マシ	NICO Touches the Walls	247960	0	8	2021/11/8 19:34
+Kakusei	"Sapphire, Patrick Bartley"	Kakusei	Sapphire	254000	25	8	2021/11/8 19:54
+MOIL	須田景凪	porte	須田景凪	220282	30	7	2021/11/17 21:43
+veil	須田景凪	Billow	須田景凪	209636	63	4	2021/11/17 21:43
+蕚	"ヒプノシスマイク -D.R.B.- (Fling Posse), ヒプノシスマイク -D.R.B- (夢野幻太郎)"	Fling Posse -Before The 2nd D.R.B-	ヒプノシスマイク -D.R.B.- (Fling Posse)	205724	36	7	2021/11/18 11:50
+Stella	ヒプノシスマイク -D.R.B.- (Fling Posse)	Enter the Hypnosis Microphone	ヒプノシスマイク -D.R.B- (Division All Stars)	293504	36	5	2021/11/18 11:54
+TOMOSHIBI	ヒプノシスマイク -D.R.B- (麻天狼)	ヒプノシスマイク -Division Rap Battle- 2nd D.R.B『Bad Ass Temple VS 麻天狼』	"ヒプノシスマイク -D.R.B- (Bad Ass Temple), ヒプノシスマイク -D.R.B- (麻天狼)"	312706	31	4	2021/11/18 11:56
+パピヨン	ヒプノシスマイク -D.R.B- (麻天狼)	Enter the Hypnosis Microphone	ヒプノシスマイク -D.R.B- (Division All Stars)	245648	31	4	2021/11/18 11:57
+おっさん	岡崎体育	おっさん	岡崎体育	300386	21	7	2021/11/18 18:24
+留学生	"Monkey Majik, 岡崎体育"	COLLABORATED	Monkey Majik	214773	44	7	2021/11/18 18:24
+潮風	岡崎体育	潮風	岡崎体育	223840	23	1	2021/11/18 18:24
+Gangsta's Paradise	"ヒプノシスマイク -D.R.B.- (MAD TRIGGER CREW), ヒプノシスマイク -D.R.B- (碧棺左馬刻)"	MAD TRIGGER CREW -Before The 2nd D.R.B-	ヒプノシスマイク -D.R.B.- (MAD TRIGGER CREW)	183358	36	5	2021/11/18 21:38
+シノギ(Dead Pools)	ヒプノシスマイク -D.R.B.- (MAD TRIGGER CREW)	Enter the Hypnosis Microphone	ヒプノシスマイク -D.R.B- (Division All Stars)	200141	33	8	2021/11/18 21:51
+I'm In Love With My Car - Remastered 2011	クイーン	A Night At The Opera (2011 Remaster)	クイーン	184893	49	7	2021/11/24 23:07
+Bohemian Rhapsody - Remastered 2011	クイーン	A Night At The Opera (2011 Remaster)	クイーン	354320	83	3	2021/11/24 23:08
+You're My Best Friend - Remastered 2011	クイーン	A Night At The Opera (2011 Remaster)	クイーン	170786	67	3	2021/11/24 23:08
+Made In Heaven - 2011 Remaster	クイーン	Made In Heaven (Deluxe Edition 2011 Remaster)	クイーン	324920	33	7	2021/11/24 23:08
+Killer Queen - Remastered 2011	クイーン	Killer Queen	クイーン	180866	22	1	2021/11/24 23:09
+Love Of My Life - Remastered 2011	クイーン	Queen Forever (Deluxe Edition)	クイーン	213340	31	6	2021/11/24 23:09
+Somebody To Love - 2014 Remaster	クイーン	Queen Forever (Deluxe Edition)	クイーン	292946	24	1	2021/11/24 23:10
+Crazy Little Thing Called Love - Remastered 2011	クイーン	Queen Forever (Deluxe Edition)	クイーン	163520	25	7	2021/11/24 23:10
+人として	SUPER BEAVER	27	SUPER BEAVER	244720	63	2	2021/12/1 16:53
+ロングホープ・フィリア - From THE FIRST TAKE	amazarashi	ロングホープ・フィリア - From THE FIRST TAKE	amazarashi	307124	28	5	2021/12/1 16:54
+自虐家のアリー	amazarashi	季節は次々死んでいく	amazarashi	328146	35	7	2021/12/1 16:55
+Memento mori	"androp, Aimer"	cocoon	androp	526680	25	1	2021/12/1 16:55
+夏を待っていました	amazarashi	爆弾の作り方	amazarashi	340746	33	8	2021/12/1 16:56
+ライフイズビューティフル	amazarashi	世界収束二一一六	amazarashi	369586	28	1	2021/12/1 16:56
+All I Want for Christmas Is You	マライア・キャリー	Merry Christmas	マライア・キャリー	241562	99	2	2021/12/13 22:21
+君あり故に我あり	"ヒプノシスマイク -D.R.B- (麻天狼), ヒプノシスマイク -D.R.B- (神宮寺寂雷)"	麻天狼 -Before The 2nd D.R.B-	ヒプノシスマイク -D.R.B- (麻天狼)	237897	29	2	2021/12/15 19:46
+迷宮壁	"ヒプノシスマイク -D.R.B- (麻天狼), ヒプノシスマイク -D.R.B- (神宮寺寂雷)"	麻天狼-音韻臨床-	ヒプノシスマイク -D.R.B- (麻天狼)	264134	26	3	2021/12/15 19:47
+Wolven Storm - English	Marcin Przybyłowicz	Wolven Storm (English)	Marcin Przybyłowicz	198400	51	2	2021/12/20 15:00
+Rightfully（TVアニメゴブリンスレイヤーOPテーマ）	Mili	Rightfully（TVアニメゴブリンスレイヤーOPテーマ）	Mili	213333	30	4	2021/12/20 15:01
+Within（TVアニメゴブリンスレイヤー12話 挿入歌）	Mili	Within（TVアニメゴブリンスレイヤー12話 挿入歌）	Mili	166184	22	8	2021/12/20 15:02
+Camelia	Mili	Millennium Mother	Mili	279986	23	2	2021/12/20 15:02
+奶水	Mili	Millennium Mother	Mili	194146	14	5	2021/12/20 15:02
+world.search (you) ;	Mili	Millennium Mother	Mili	295266	17	8	2021/12/20 15:02
+Ga1ahad and Scientific Witchery	Mili	Miracle Milk	Mili	221378	31	4	2021/12/20 15:02
+RTRT	Mili	Miracle Milk	Mili	215023	34	1	2021/12/20 15:03
+Bathtub Mermaid	Mili	Miracle Milk	Mili	224022	24	6	2021/12/20 15:03
+Fight Another Day (Andy Tunstall Remix)	"Kat Penkin, Andy Tunstall"	Cytus II-Paff (Original Soundtrack)	ヴァリアス・アーティスト	160000	33	6	2021/12/20 15:04
+Speed of Light	"塞壬唱片-MSR, DJ Okawari, Ai Ninomiya"	Speed of Light	"塞壬唱片-MSR, DJ Okawari, Ai Ninomiya"	245817	46	8	2021/12/20 15:05
+Fireflies	"Funk Fiction, Nikki Simmons"	Cytus II-Paff (Original Soundtrack)	ヴァリアス・アーティスト	171691	37	3	2021/12/20 15:06
+我不是	Nowhere Band	名為自我的那些	Nowhere Band	220983	0	5	2021/12/20 15:06
+Black Hole	"ヴァリアス・アーティスト, A-Tse, KIVΛ"	Cytus II-Xenon (Original Soundtrack)	ヴァリアス・アーティスト	330691	12	5	2021/12/20 15:08
+真夜中のオーケストラ	Aqua Timez	カルペ・ディエム	Aqua Timez	353760	48	5	2021/12/20 15:09
+颯爽と走るトネガワ君	ゲスの極み乙女	颯爽と走るトネガワ君	ゲスの極み乙女	123901	28	2	2021/12/20 15:10
+狂言回し	NoisyCell	Focus	NoisyCell	198400	2	8	2021/12/20 15:10
+夜明けのうた	宮本浩次	夜明けのうた	宮本浩次	267333	23	4	2021/12/21 20:58
+The Weekend (with 347aidan) - Remix	"88rising, BIBI, 347aidan"	The Weekend (with 347aidan) [Remix]	"88rising, BIBI, 347aidan"	167661	0	1	2021/12/25 12:03
+風船飛行(男性ver.)	"ポプ子(CV:伊東健人), ピピ美(CV:木島隆一)"	ポプテピピック ALL TIME BEST2	ポプテピピック ALL TIME BEST	225280	7	4	2021/12/29 0:18
+POPPY PAPPY DAY(男性ver.1)	"ポプ子(CV:赤羽根健治), ピピ美(CV:武内駿輔)"	ポプテピピック ALL TIME BEST	ポプテピピック ALL TIME BEST	289040	8	3	2021/12/29 0:22
+恋して♡ポプテピピック(男性ver.)	"ポプ子(CV:赤羽根健治), ピピ美(CV:武内駿輔)"	ポプテピピック ALL TIME BEST	ポプテピピック ALL TIME BEST	92466	7	8	2021/12/29 0:22
+人生(男性ver.)	"ポプ子(CV:増田俊樹), ピピ美(CV:羽多野渉)"	ポプテピピック ALL TIME BEST	ポプテピピック ALL TIME BEST	98826	3	8	2021/12/29 0:24
+第六感	Reol	第六感	Reol	191624	59	3	2021/12/30 22:19
+No title	Reol	No title-	Reol	243903	56	8	2021/12/30 22:19
+inside you	milet	eyes	milet	222306	54	3	2021/12/30 22:20
+いい日旅立ち	谷村新司	Shinji Tanimura with PIANO MY NOTE	谷村新司	275093	26	1	2021/12/31 20:42
+CRAZY	谷村新司	ラバン	谷村新司	297893	1	2	2021/12/31 20:42
+"Woman ""Wの悲劇""より - 「Wの悲劇」より"	薬師丸ひろ子	歌物語	薬師丸ひろ子	231040	0	8	2021/12/31 23:04
+そして・・生きなさい	由紀さおり	そして・・生きなさい	由紀さおり	227693	3	1	2022/1/2 19:47
+東京 - From THE FIRST TAKE	"SUPER BEAVER, 長屋晴子"	東京 - From THE FIRST TAKE	SUPER BEAVER	291157	46	1	2022/1/5 13:39
+おもかげ (produced by Vaundy)	"milet, Aimer, 幾田りら"	おもかげ (produced by Vaundy)	"milet, Aimer, 幾田りら"	188060	62	2	2022/1/5 13:45
+DADDY ! DADDY ! DO !	"鈴木雅之, 鈴木愛理"	ALL TIME ROCK 'N' ROLL	鈴木雅之	254640	63	3	2022/1/5 13:49
+Bullet Waiting for Me (James Landino Remix)	"Nikki Simmons, James Landino"	Cytus II-Paff (Original Soundtrack)	ヴァリアス・アーティスト	148035	34	8	2022/1/7 14:36
+Pink cheeks	eldon	Pink cheeks	eldon	183773	53	3	2022/1/28 14:25
+世界はそれを愛と呼ぶんだぜ	サンボマスター	世界はそれを愛と呼ぶんだぜ	サンボマスター	312626	55	1	2022/1/31 14:53
+奇跡を望むなら...	JUJU	Open Your Heart〜素顔のままで〜	JUJU	379320	45	5	2022/1/31 15:05
+関白宣言	さだまさし	さだまさしベスト	さだまさし	354066	32	6	2022/1/31 15:28
+関白失脚	さだまさし	さだまさしベスト	さだまさし	436386	32	6	2022/1/31 15:28
+防人の詩	さだまさし	さだまさしベスト	さだまさし	425333	23	8	2022/1/31 15:51
+First Dates	SALU	INDIGO	SALU	197096	39	7	2022/1/31 17:06
+One Last Kiss	宇多田ヒカル	One Last Kiss	宇多田ヒカル	252026	63	8	2022/2/3 3:04
+君に夢中	宇多田ヒカル	BADモード	宇多田ヒカル	257953	57	7	2022/2/3 3:04
+If I Ain't Got You	アリシア・キーズ	The Diary Of Alicia Keys	アリシア・キーズ	228706	84	5	2022/2/3 22:26
+RUNAWAY W ME	Warren Hue	RUNAWAY W ME	Warren Hue	181853	0	4	2022/2/4 14:43
+コネクト	ClariS	コネクト	ClariS	271733	44	4	2022/2/24 13:21
+Tiny Light	鬼頭明里	Desire Again	鬼頭明里	290813	38	5	2022/3/9 16:50
+恋のディスコクイーン	SEGA SOUND TEAM	龍が如く0 誓いの場所 オリジナルサウンドトラック (Side B)	SEGA SOUND TEAM	124690	24	1	2022/3/31 11:45
+明日晴れるかな	桑田佳祐	I LOVE YOU -now & forever-	桑田佳祐	313866	52	6	2022/3/31 12:43
+1.0	amazarashi	1.0	amazarashi	331996	27	2	2022/4/1 12:56
+ばかまじめ	"Creepy Nuts, Ayase, 幾田りら"	ばかまじめ	"Creepy Nuts, Ayase, 幾田りら"	172366	53	2	2022/4/1 13:02
+Cytus II - Winter Games		Cytus II - Winter Games		158000	0	7	2022/4/7 12:46
+空白の車窓から	amazarashi	空白の車窓から	amazarashi	338279	16	6	2022/4/12 10:18
+感情道路七号線	amazarashi	七号線ロストボーイズ	amazarashi	92745	26	7	2022/4/14 0:38
+ロストボーイズ	amazarashi	七号線ロストボーイズ	amazarashi	346303	33	2	2022/4/14 0:40
+君がいて水になる	ずっと真夜中でいいのに。	正しい偽りからの起床	ずっと真夜中でいいのに。	285280	44	8	2022/4/14 15:08
+拝啓、地獄より	地獄の沙汰オールスターズ	拝啓、地獄より	地獄の沙汰オールスターズ	256497	23	7	2022/4/19 18:05
+アオモリオルタナティブ	amazarashi	七号線ロストボーイズ	amazarashi	285309	25	8	2022/4/24 9:18
+アダプテッド	amazarashi	七号線ロストボーイズ	amazarashi	315195	31	8	2022/5/1 14:21
+M八七	米津玄師	M八七	米津玄師	263123	50	1	2022/5/13 11:37
+打上花火	米津玄師	BOOTLEG	米津玄師	259394	56	7	2022/5/24 11:08
+夏草に君を想う (Remaster for 星の消えた夜に 2022)	Aimer	星の消えた夜に	Aimer	262519	29	7	2022/5/24 11:10
+tone (Remaster for 星の消えた夜に 2022)	Aimer	星の消えた夜に	Aimer	287186	32	3	2022/5/24 11:17
+Daisy (Remaster for 星の消えた夜に 2022)	Aimer	星の消えた夜に	Aimer	260420	32	1	2022/5/24 11:37
+星の消えた夜に (Remaster for 星の消えた夜に 2022)	Aimer	星の消えた夜に	Aimer	353128	31	1	2022/5/24 11:50
+Ophelia (Remaster for 星の消えた夜に 2022)	Aimer	星の消えた夜に	Aimer	403876	27	5	2022/5/24 11:58
+花束のかわりにメロディーを	Aimer	星の消えた夜に	Aimer	299642	28	6	2022/5/24 12:20
+Wasted Nights	ONE OK ROCK	Eye of the Storm	ONE OK ROCK	224773	62	6	2022/5/24 12:22
+GIRI GIRI	"鈴木雅之, すぅ"	GIRI GIRI	鈴木雅之	258765	50	4	2022/5/24 12:24
+二言目	物語シリーズ	歌物語 Special Edition	物語シリーズ	265826	32	6	2022/6/3 10:41
+Before	NIKI	Before	NIKI	234057	0	7	2022/6/3 19:10
+GASSHOW	illion	UBU	illion	184346	0	5	2022/6/8 19:59
+奇跡 2021	さだまさし	奇跡 2021	さだまさし	403299	12	1	2022/6/8 20:00
+山下 達郎　希望という名の光		山下 達郎　希望という名の光		314000	0	8	2022/6/8 20:01
+Tatsuro Yamashita - 硝子の少年		Tatsuro Yamashita - 硝子の少年		280000	0	5	2022/6/8 20:01
+山下達郎「さよなら夏の日」		山下達郎「さよなら夏の日」		280000	0	1	2022/6/8 20:01
+「RIDE ON TIME」・山下達郎		「RIDE ON TIME」・山下達郎		262000	0	3	2022/6/8 20:01
+Tatsuro Yamashita - Sparkle		Tatsuro Yamashita - Sparkle		255000	0	2	2022/6/8 20:01
+山下達郎 RECIPE(レシピ) 歌詞付		山下達郎 RECIPE(レシピ) 歌詞付		217000	0	4	2022/6/8 20:01
+Run	Joji	Nectar	Joji	195000	1	6	2022/6/9 15:20
+KONNANじゃないっ!	澤村 遥(釘宮理恵)	龍が如く5 夢、叶えし者 オリジナルサウンドトラック (Vol.2)	SEGA SOUND TEAM	310552	28	4	2022/6/14 22:38
+loneliness loop	澤村 遥(釘宮理恵)	龍が如く5 夢、叶えし者 オリジナルサウンドトラック (Vol.2)	SEGA SOUND TEAM	214267	21	6	2022/6/14 22:40
+TONIGHT-restart from this night- - Full Spec Edition	桐生一馬(黒田崇矢)	龍が如く極 オリジナルサウンドトラック	SEGA SOUND TEAM	279485	22	4	2022/6/17 12:20
+YOKOHAMA blues	SEKAI NO OWARI	Lip	SEKAI NO OWARI	292514	47	5	2022/6/18 13:12
+本日はダイヤモンド - Full Spec Edition	桐生一馬(黒田崇矢)	桐生一馬 カラオケ定番曲コレクション(龍が如く7 光と闇の行方)	SEGA SOUND TEAM	211385	23	7	2022/6/20 17:40
+MachineGun Kiss - Full Spec Edition	桐生一馬(黒田崇矢)	桐生一馬 カラオケ定番曲コレクション(龍が如く7 光と闇の行方)	SEGA SOUND TEAM	270337	27	5	2022/6/20 17:41
+Glimpse of Us	Joji	Glimpse of Us	Joji	233456	8	7	2022/6/21 20:32
+Yakuza 5 / 龍が如く5 OST | Machine Gun Kiss (Full swing edition)		Yakuza 5 / 龍が如く5 OST | Machine Gun Kiss (Full swing edition)		271000	0	7	2022/6/30 19:57
+カシオピア係留所	amazarashi	カシオピア係留所	amazarashi	375989	29	4	2022/7/7 10:35
+TONIGHT-restart from this night- - Full Spec Edition	桐生一馬(黒田崇矢)	桐生一馬 カラオケ定番曲コレクション(龍が如く7 光と闇の行方)	SEGA SOUND TEAM	279485	17	3	2022/7/10 23:20
+新宝島	サカナクション	魚図鑑	サカナクション	302493	56	7	2022/7/17 18:19
+異世界混合大舞踏会 (feat. おばけ)	星野 源	異世界混合大舞踏会 (feat. おばけ)	星野 源	225533	44	8	2022/7/18 13:44
+真夏の果実	サザンオールスターズ	真夏の果実	サザンオールスターズ	279300	64	6	2022/7/21 10:47
+Friday Night	"SEGA SOUND TEAM, 稲毛 謙介, 荒井 善博"	龍が如く0 誓いの場所 オリジナルサウンドトラック (Side B)	SEGA SOUND TEAM	96148	21	8	2022/7/22 14:01
+少年時代	宇多田ヒカル	少年時代	宇多田ヒカル	237194	33	4	2022/8/2 15:03
+My Confession	"Alexis Smith, Ruth Galliers, Emma Adanma Holland, Joe Henson"	Laid-Back Listening	ヴァリアス・アーティスト	233700	5	1	2022/8/3 11:55
+High School in Jakarta	NIKI	High School in Jakarta	NIKI	219036	0	7	2022/8/5 14:27
+Summer Time	"神山羊, 池田智子"	Summer Time	神山羊	222968	20	7	2022/8/25 0:39
+YELLOW	神山羊	しあわせなおとな	神山羊	178712	41	6	2022/8/25 0:39
+MOIL	須田景凪	Billow	須田景凪	220282	41	8	2022/8/25 0:40
+レソロジカ	須田景凪	teeter	須田景凪	213788	22	6	2022/8/25 0:40
+沙燕之歌 (2019)	Supper Moment	19 Moment	Supper Moment	303524	14	8	2022/8/25 13:05
+Inspiration ( Original ver. )	Hannah	Inspiration	Hannah	240238	1	3	2022/8/28 21:52
+Re:Boost	EAjRock	Cytus II-Paff (Original Soundtrack)	ヴァリアス・アーティスト	191312	22	4	2022/8/29 11:34
+Sunshine Duration	Sing Sing Rabbit	Sunshine Duration	Sing Sing Rabbit	213771	0	2	2022/8/31 21:07
+まにまに	r-906	まにまに	r-906	268965	41	7	2022/8/31 21:16
+知らぬがイム	"IIYATSU, Noz., Eye"	知らぬがイム	IIYATSU	190971	13	6	2022/8/31 21:38
+One Way Love	Tsukasa	Cytus II-Neko (Original Soundtracks)	ヴァリアス・アーティスト	125401	19	3	2022/9/9 10:21
+Luolimasi	SIHanatsuka	Cytus II: Robo_head (Original Soundtrack)	ヴァリアス・アーティスト	127446	20	3	2022/9/9 10:59
+Celestial Sounds (KivΛ Remix)	3R2	Cytus II: Robo_head (Original Soundtrack)	ヴァリアス・アーティスト	320110	18	7	2022/9/9 11:11
+ミカヅキ	さユり	Mikazukino Koukai	さユり	261920	0	2	2022/9/16 11:20
+メランコリーキッチン	米津玄師	YANKEE	米津玄師	218653	63	2	2022/9/16 11:20
+青い春	back number	blues	back number	236626	55	4	2022/9/16 12:12
+アプリコット	いよわ	わたしのヘリテージ	いよわ	205853	44	2	2022/9/18 16:23
+猫村さんのうた	"松重豊, U-zhaan, 坂本龍一"	猫村さんのうた	"松重豊, U-zhaan, 坂本龍一"	166300	28	8	2022/9/24 2:55
+恋だろ	wacci	恋だろ	wacci	282426	56	8	2022/9/25 1:11
+On The Drive Home	NIKI	Nicole	NIKI	256346	0	7	2022/9/25 12:51
+Dopamine	Jackson Wang	MAGIC MAN	Jackson Wang	191826	0	1	2022/9/25 12:53
+Come Alive	Jackson Wang	MAGIC MAN	Jackson Wang	172428	0	5	2022/9/25 13:02
+world.search (you) ;	Mili	Millennium Mother	Mili	295266	35	4	2022/10/2 21:02
+もっと	aiko	もっと	aiko	290868	46	2	2022/10/7 20:53
+BREAK IN TO BREAK OUT	Lyn	BREAK IN TO BREAK OUT / INFINITY		283000	0	5	2022/10/7 20:54
+ラブ・ストーリーは突然に	クリス・ハート	Heart Song II	クリス・ハート	270640	32	5	2022/10/7 20:54
+Dark Sun…	Lyn	Dark Sun… / Autonomy		246000	0	6	2022/10/7 20:59
+BY MY SIDE	いとうかなこ	Reactor	いとうかなこ	298893	16	3	2022/10/7 21:22
+Forever Right Now	Conor Matthews	Forever Right Now	Conor Matthews	141828	51	4	2022/10/7 21:30
+兽娘动物园op - 【武士桑】「欢迎来到加帕利动物园」【木吉他彈奏】	おさむらいさん	【武士桑】「欢迎来到加帕利动物园」【木吉他彈奏】		97000	0	1	2022/10/7 21:34
+ふしぎなふしぎな生きもの	"岡崎体育, トータス松本"	「劇場版ポケットモンスター ココ」テーマソング集	岡崎体育	288280	30	6	2022/10/7 22:07
+境界の彼方	茅原実里	NEO FANTASIA	茅原実里	292040	44	2	2022/10/7 22:18
+大鱼	周深	大鱼		313000	0	8	2022/10/7 22:28
+心里满满都是你（三糙一软睡前故事，剑三同人）	玄觞	【玄觞/秦且歌】心里满满都是你		197000	0	2	2022/10/7 22:47
+はじめましての気持ちを	Daoko	はじめましての気持ちを	Daoko	227193	32	1	2022/10/7 22:57
+Light A Fire	アンジェラ (Vo. Alisa)	TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1	ヴァリアス・アーティスト	225266	36	2	2022/10/7 23:06
+The One	ザ・チェインスモーカーズ	Memories...Do Not Open	ザ・チェインスモーカーズ	177573	55	8	2022/10/7 23:07
+Something Just Like This	"ザ・チェインスモーカーズ, コールドプレイ"	Memories...Do Not Open	ザ・チェインスモーカーズ	247160	87	3	2022/10/7 23:07
+Milky Way	VERTUEUX	〜 DMMd period. 〜 DRAMAtical Murder re:connect soundtrack	ニトロプラス キラル	288626	4	7	2022/10/9 21:44
+禁绝边境线 爵士版（いけないボーダーライン）（Cover ワルキューレ）	最大值胖达	"Hello,Panda!"		171000	0	8	2022/10/9 21:54
+島アイモ	ランカ・リー=中島愛	"「劇場版 マクロスF ～サヨナラノツバサ～」netabare album　the end of ""triangle"""	"シェリル・ノーム starring May'n   , ランカ・リー=中島愛, 菅野よう子"	94120	18	6	2022/10/9 21:57
+Found a Light	Lyn	PERSONA5 the Animation Original Soundtrack Vol.1		308000	0	5	2022/10/9 21:59
+ピアノ泥棒	amazarashi	アノミー	amazarashi	331213	26	3	2022/10/9 22:11
+当然是选择原谅她啊-日语版-（Cover PoKeR）	ゆう十	当然是选择原谅她啊（日语版）		139000	0	8	2022/10/9 22:25
+戦線のリアリズム	新菜まこ	ひげこれ! HIGEDRIVER BEST in KADOKAWA ANISON	ヒゲドライバー	270579	19	3	2022/10/9 22:44
+夜明けと蛍	赤ティン	re:stArT		309000	0	8	2022/10/9 22:50
+Meru	かんせる	かんせる歌曲集		218000	0	5	2022/10/10 18:04
+ONE OK ROCK - Unplugged	ZION.M朱祉悦	《ONE OK ROCK-Unplugged》		543000	0	6	2022/10/10 18:05
+心予報	Eve	心予報	Eve	199995	48	8	2022/10/10 18:18
+GHEN (cloudfield Remix)	ERIK St.319/cloudfield	GHEN (cloudfield Remix)		244000	0	8	2022/10/11 18:58
+Cytus II Cherry / Rua feat. K - Still				184000	0	1	2022/10/11 19:04
+Crystalline	いとうかなこ	〜 DMMd period. 〜 DRAMAtical Murder re:connect soundtrack	ニトロプラス キラル	253493	8	6	2022/10/13 19:02
+ブリキの月	セカイイチ	セカイイチ	セカイイチ	357440	9	5	2022/10/13 19:13
+空っぽの空に潰される	amazarashi	千年幸福論	amazarashi	340373	35	2	2022/10/13 19:31
+千年幸福論	amazarashi	千年幸福論	amazarashi	325426	28	7	2022/10/13 19:31
+夢花火	赤ティン	最新热歌慢摇108		266000	0	4	2022/10/13 19:48
+さよならだけが人生だ	赤ティン	最新热歌慢摇105		313000	0	8	2022/10/13 19:48
+上弦之月	赤ティン	最新热歌慢摇108		240000	0	4	2022/10/13 19:48
+99.9	"MOB CHOIR, sajou no hana"	99.9	MOB CHOIR	188706	37	5	2022/10/13 19:54
+Drown	milet	eyes	milet	214373	54	5	2022/10/14 12:17
+I wanna take you home	"SEGA SOUND TEAM, 稲毛 謙介, 荒井 善博"	龍が如く0 誓いの場所 オリジナルサウンドトラック (Side B)	SEGA SOUND TEAM	104805	7	4	2022/10/14 12:23
+MEMORIES	氷無小雪(CV:早見沙織)	「風夏」　サウンドコレクション	ヴァリアス・アーティスト	343266	20	2	2022/10/14 17:23
+星間飛行	ランカ・リー=中島愛	「マクロスF」星間飛行	ランカ・リー=中島愛	231222	47	6	2022/10/14 17:48
+Nomo	舵	Nomo		162000	0	1	2022/10/14 17:50
+星が瞬くこんな夜に	supercell	うたかた花火／星が瞬くこんな夜に	supercell	269346	43	6	2022/10/14 17:54
+水星（Cover TOFUBEATS）	最大值胖达	水星		216000	0	7	2022/10/14 18:06
+星座と魔法	nqrse/そらる	NEGATIVE		222000	0	4	2022/10/14 18:10
+Lonely Christmas	Eason Chan	陳奕迅 廣東精選 (HQCDII)	Eason Chan	280840	46	5	2022/10/26 20:20
+聖誕結	Eason Chan	你的陳奕迅 (國語精選)	Eason Chan	281321	41	4	2022/10/26 20:27
+Shall We Talk	Eason Chan	你的陳奕迅 (國語精選)	Eason Chan	227277	23	8	2022/10/26 20:27
+"One more time, One more chance"	山崎まさよし	HOME	山崎まさよし	330200	62	5	2022/10/26 20:29
+青い栞	Galileo Galilei	PORTAL	Galileo Galilei	337960	0	7	2022/11/4 2:10
+浅草キッド	"菅田 将暉, 桐谷健太"	PLAY(Special Edition)	菅田 将暉	244426	39	2	2022/11/6 23:28
+KICK BACK	米津玄師	KICK BACK	米津玄師	193495	76	7	2022/11/6 23:29
+獣ゆく細道	"椎名林檎, 宮本浩次"	三毒史	椎名林檎	220346	55	3	2022/11/6 23:29
+気分上々↑↑	"96猫, 置鮎龍太郎, 千葉翔也, Lezel"	テレビアニメ「パリピ孔明」エンディングテーマ「気分上々↑↑」	"96猫, 置鮎龍太郎, 千葉翔也, Lezel"	230960	39	3	2022/11/7 20:40
+プラスティック・ラブ	竹内まりや	Expressions	竹内まりや	294493	54	3	2022/11/9 19:07
+ヤングアダルト	マカロニえんぴつ	hope	マカロニえんぴつ	258158	64	6	2022/11/12 14:53
+青春と一瞬	マカロニえんぴつ	青春と一瞬	マカロニえんぴつ	278536	55	6	2022/11/13 19:05
+ブルーベリー・ナイツ	マカロニえんぴつ	hope	マカロニえんぴつ	244869	68	6	2022/11/13 19:47
+仲良ピース(男性Ver.)	"ポプ子(CV:大須賀純), ピピ美(CV:高橋広樹)"	Endless Love/仲良ピース	ポプテピピック ALL TIME BEST	194160	6	5	2022/11/15 11:49
+オリオンをなぞる	UNISON SQUARE GARDEN	UNISON SQUARE GARDEN The 1st Collection for streaming	UNISON SQUARE GARDEN	262240	43	1	2022/11/15 19:24
+如果可以 - From THE FIRST TAKE	WeiBird	如果可以 - From THE FIRST TAKE	WeiBird	166602	26	6	2022/11/15 19:25
+青春と一瞬(Strings ver.)From THE FIRST TAKE	マカロニえんぴつ	青春と一瞬(Strings ver.)From THE FIRST TAKE	マカロニえんぴつ	287054	29	7	2022/11/15 19:28
+明日大好きなロックンロールバンドがこの街にやってくるんだ - From THE FIRST TAKE	斉藤和義	明日大好きなロックンロールバンドがこの街にやってくるんだ - From THE FIRST TAKE	斉藤和義	339533	16	5	2022/11/15 19:29
+違う、そうじゃない	鈴木雅之	違う、そうじゃない/渋谷で5時　〜Romantic Single Version〜	鈴木雅之	249000	38	4	2022/11/15 19:32
+スターライト	amazarashi	夕日信仰ヒガシズム	amazarashi	284906	39	2	2022/11/17 20:59
+ポルノ映画の看板の下で	amazarashi	ワンルーム叙事詩	amazarashi	355773	27	7	2022/11/26 1:46
+14歳	amazarashi	千年幸福論	amazarashi	392040	25	2	2022/11/26 1:47
+火種	amazarashi	七号線ロストボーイズ	amazarashi	250373	32	6	2022/11/26 1:47
+戸山団地のレインボー	amazarashi	七号線ロストボーイズ	amazarashi	282228	27	4	2022/11/26 1:47
+数え歌	amazarashi	命にふさわしい	amazarashi	367653	23	3	2022/11/26 1:47
+爆弾の作り方	amazarashi	爆弾の作り方	amazarashi	302386	32	3	2022/11/26 1:48
+間抜けなニムロド	amazarashi	七号線ロストボーイズ	amazarashi	254848	27	4	2022/11/26 1:49
+春雷	米津玄師	BOOTLEG	米津玄師	288887	67	8	2022/11/29 20:39
+Shall We Talk	Eason Chan	Shall We Dance? Shall We Talk!	Eason Chan	227207	50	3	2022/12/1 21:28
+古いSF映画	amazarashi	千年幸福論	amazarashi	347946	31	6	2022/12/8 21:22
+夕陽無限好	Eason Chan	U 87	Eason Chan	244253	46	4	2022/12/9 18:44
+Daisy	STEREO DIVE FOUNDATION	STEREO DIVE	STEREO DIVE FOUNDATION	274893	0	8	2022/12/14 19:27
+さよならくちびる	ハルレオ	さよならくちびる	ハルレオ	241253	31	8	2022/12/14 19:31
+Fragile	"DJ Okawari, セレイナ・アン"	Nightfall	"DJ Okawari, セレイナ・アン"	271547	32	5	2022/12/14 19:31
+Skyfall	アデル	Skyfall	アデル	286081	87	2	2022/12/14 19:47
+Someone Like You	アデル	21	アデル	285240	46	1	2022/12/14 19:47
+純恋歌	湘南乃風	湘南乃風 〜Riders High〜	湘南乃風	429000	60	3	2022/12/31 2:26
+Scarborough Fair	サラ・ブライトマン	Diva: The Singles Collection	サラ・ブライトマン	252480	43	4	2023/1/1 20:40
+Oath	ときめきメモリアル Girl's Side 4th Heart Sound Team	ときめきメモリアル Girl's Side 4th Heart Original Soundtrack	ときめきメモリアル Girl's Side 4th Heart Sound Team	273765	21	3	2023/1/2 10:33
+怪獣の花唄	Vaundy	strobo	Vaundy	224806	3	4	2023/1/4 14:03
+アイラブユー	back number	アイラブユー	back number	235682	59	2	2023/1/4 14:09
+新時代	Ado	ウタの歌 ONE PIECE FILM RED	Ado	226813	62	2	2023/1/4 14:09
+逆光	Ado	ウタの歌 ONE PIECE FILM RED	Ado	237666	60	7	2023/1/4 14:09
+THE LAST ROCKSTARS (PARIS MIX)	"The Last Rockstars, YOSHIKI"	THE LAST ROCKSTARS (PARIS MIX)	"The Last Rockstars, YOSHIKI"	285700	34	1	2023/1/4 14:11
+天城越え	石川さゆり	名唱コレクション 石川さゆり 時代の粋を唄う	石川さゆり	293226	49	5	2023/1/4 14:15
+サマータイムレコード	じん	メカクシティレコーズ	じん	275440	44	8	2023/1/16 0:18
+ウイスキーが、お好きでしょ	石川さゆり	名唱コレクション 石川さゆり 時代の粋を唄う	石川さゆり	181946	42	6	2023/1/16 0:22
+アディショナルメモリー	じん	メカクシティリロード	じん	240920	44	7	2023/1/16 0:33
+空想フォレスト	じん	メカクシティデイズ	じん	257972	29	3	2023/1/16 0:34
+能登半島	石川さゆり	石川さゆり45周年配信限定パッケージ vol.I	石川さゆり	226520	42	2	2023/1/16 20:06
+おはようイケブクロ	ヒプノシスマイク -D.R.B- (Buster Bros!!!)	Enter the Hypnosis Microphone	ヒプノシスマイク -D.R.B- (Division All Stars)	267046	34	1	2023/1/17 23:36
+Cry Me a River	"Forsvarets Stabsmusikkorps, Angelina Jordan, THE STAFF BAND OF THE NORWEGIAN ARMED FORCES"	It's Magic	"Angelina Jordan, Forsvarets Stabsmusikkorps"	265693	31	4	2023/1/23 18:57
+エプロンボーイ	DJみそしるとMCごはん	エプロンボーイのさしすせそ	DJみそしるとMCごはん	167346	0	4	2023/1/30 21:40
+"Take Me Back To London (Remix) [feat. Stormzy, Jaykae & Aitch]"	"エド・シーラン, Jaykae, Aitch, Stormzy"	"Take Me Back To London (Remix) [feat. Stormzy, Jaykae & Aitch]"	"エド・シーラン, Jaykae, Aitch"	232150	50	4	2023/1/30 21:48
+Simon	Dean Ting	神經志 The Journal	Dean Ting	416901	36	3	2023/1/30 21:49
+アイトユウ	ラックライフ	アイトユウ	ラックライフ	259532	11	8	2023/1/30 21:51
+Perfect Duet (Ed Sheeran & Beyoncé)	"エド・シーラン, ビヨンセ"	Perfect Duet (Ed Sheeran & Beyoncé)	"エド・シーラン, ビヨンセ"	259550	69	8	2023/1/30 21:51
+Shape of You	エド・シーラン	÷ (Deluxe)	エド・シーラン	233712	89	4	2023/1/30 21:52
+Supermarket Flowers	エド・シーラン	÷ (Deluxe)	エド・シーラン	221106	74	8	2023/1/30 21:52
+現実という名の怪物と戦う者たち	高橋優	現実という名の怪物と戦う者たち	高橋優	254400	30	6	2023/1/30 21:53
+落日	東京事変	深夜枠	東京事変	252813	42	6	2023/1/30 21:53
+おかしなわたしとはちみつのきみ	はちみつロケット	おかしなわたしとはちみつのきみ	はちみつロケット	257120	7	8	2023/1/30 21:55
+夏の日	山猿	あいことば2	山猿	235200	35	7	2023/1/30 21:56
+夏の音	GReeeeN	C、Dですと！?	GReeeeN	274266	34	1	2023/1/30 21:56
+ステップアップLOVE	"Daoko, 岡村靖幸"	THANK YOU BLUE	Daoko	256339	42	5	2023/1/30 21:59
+Little Traveler	rairu	ballad	rairu	269300	7	5	2023/1/30 22:02
+ドナーソング(カバー)	rairu	灯響プラグレス	"Kain, rairu, すい"	246186	13	6	2023/1/30 22:02
+楓(カバー)	"すぃ, rairu"	灯響プラグレス	"Kain, rairu, すい"	336560	5	5	2023/1/30 22:03
+妄想感傷代償連盟	DECO*27	GHOST	DECO*27	270000	51	1	2023/1/30 22:04
+アンチノミー	amazarashi	アンチノミー	amazarashi	303085	37	5	2023/2/4 2:03
+Castle on the Hill - Throttle Remix	"エド・シーラン, Throttle"	Castle on the Hill (Throttle Remix)	エド・シーラン	220879	44	7	2023/2/6 3:25
+River	Anonymouz	River	Anonymouz	197997	52	8	2023/2/6 5:08
+Can't Help Falling in Love	Haley Reinhart	Better	Haley Reinhart	173174	2	3	2023/2/13 1:49
+月光	"キタニタツヤ, はるまきごはん"	月光	キタニタツヤ	234559	43	2	2023/2/14 13:28
+花に風	バルーン	花に風	バルーン	225748	50	7	2023/2/14 13:35
+第ゼロ感	10-FEET	第ゼロ感	10-FEET	287991	60	7	2023/2/16 16:47
+LOVE ROCKETS	The Birthday	LOVE ROCKETS	The Birthday	261385	46	5	2023/2/16 16:48
+世界が終るまでは...	上杉昇	世界が終るまでは...	上杉昇	321559	45	6	2023/2/16 16:53
+暗夜の心中立て	石川さゆり	X -Cross II-	石川さゆり	250160	18	3	2023/2/22 20:07
+暗夜の心中立て	椎名林檎	逆輸入 〜航空局〜	椎名林檎	244893	50	7	2023/2/23 8:42
+Dosti	"Hemachandra Vedala, M. M. Keeravaani, Sirivennela Sitaramasastri"	RRR [TELUGU]	M. M. Keeravaani	340431	35	8	2023/2/28 19:17
+A Nightingale Sang In Berkeley Square	Southside Players	A Nightingale Sang In Berkeley Square	Southside Players	216624	34	2	2023/3/9 14:23
+A Nightingale Sang In Berkeley Square	Tori Amos	Good Omens (Original Television Soundtrack)	David Arnold	180626	5	2	2023/3/9 14:24
+Tomorrow never knows	Mr.Children	Tomorrow never knows	Mr.Children	308293	58	2	2023/3/20 16:15
+命にふさわしい	Aimer	escalate(Special Edition)	Aimer	352224	29	3	2023/3/20 16:26
+napori	Vaundy	strobo	Vaundy	203787	1	4	2023/3/28 9:23
+めざせポケモンマスター -with my friends-	サトシ(CV:松本梨香)	めざせポケモンマスター -with my friends-	サトシ(CV:松本梨香)	246253	28	3	2023/3/30 14:54
+君が好きだと叫びたい	D-51	Animeno	D-51	231080	51	1	2023/4/6 0:14
+ホタルノヒカリ	いきものがかり	ハジマリノウタ	いきものがかり	244066	64	4	2023/4/11 21:33
+Moshimo	ダイスケ	星のドロップス	ダイスケ	237426	44	8	2023/4/11 21:34
+LINE	スキマスイッチ	LINE	スキマスイッチ	280760	47	7	2023/4/11 21:34
+深呼吸	SUPER BEAVER	深呼吸	SUPER BEAVER	283880	39	6	2023/4/11 21:34
+LADY	米津玄師	LADY	米津玄師	207166	57	2	2023/4/12 1:51
+リンジュー・ラヴ	マカロニえんぴつ	wheel of life	マカロニえんぴつ	186628	33	6	2023/4/15 12:39
+Hawái	マルーマ	PAPI JUANCHO	マルーマ	199112	80	3	2023/4/24 17:50
+有頂天猫	キヨ	有頂天猫	キヨ	220093	44	6	2023/4/25 1:36
+スワイプ	amazarashi	スワイプ	amazarashi	346015	26	4	2023/4/26 21:38
+夜明けと蛍	n-buna	花と水飴、最終電車	n-buna	308967	50	1	2023/4/26 21:48
+LONGINESS REMIX	"SugLawd Familiar, CHICO CARLITO, Awich"	LONGINESS REMIX	"SugLawd Familiar, CHICO CARLITO, Awich"	254310	56	7	2023/4/28 23:34
+TOKAKUKA	秋山竜次(ロバート)	オモクリ名曲全集 秋山竜次(ロバート)篇 (第二集)	秋山竜次(ロバート)	285626	34	1	2023/4/30 0:11
+ドキドキ	ジュディー アンド マリー	ＭＩＲＡＣＬＥ　ＤＩＶＩＮＧ	ジュディー アンド マリー	254266	42	5	2023/5/7 20:39
+All of Me	ジョン・レジェンド	Love In The Future (Expanded Edition)	ジョン・レジェンド	269556	86	5	2023/5/15 21:32
+Strawberry Blush (feat. Free Nationals)	"ジョン・レジェンド, Free Nationals"	LEGEND	ジョン・レジェンド	195963	30	4	2023/5/15 21:33
+Wonder Woman	ジョン・レジェンド	LEGEND	ジョン・レジェンド	168562	46	5	2023/5/15 21:33
+Splash (feat. Jhené Aiko & Ty Dolla $ign)	"ジョン・レジェンド, Jhené Aiko, タイ･ダラー･サイン"	LEGEND	ジョン・レジェンド	234498	37	7	2023/5/15 21:50
+Love (feat. Jazmine Sullivan)	"ジョン・レジェンド, Jazmine Sullivan"	LEGEND	ジョン・レジェンド	173123	31	3	2023/5/15 22:03
+Stardust	ジョン・レジェンド	LEGEND	ジョン・レジェンド	256165	28	3	2023/5/17 22:28
+Good (feat. Ledisi)	"ジョン・レジェンド, Ledisi"	LEGEND	ジョン・レジェンド	267206	24	3	2023/5/17 22:36
+Lay Me Down	"サム・スミス, ジョン・レジェンド"	In The Lonely Hour (Drowning Shadows Edition)	サム・スミス	219535	1	6	2023/5/17 23:10
+Tacones Rojos - With John Legend	"Sebastian Yatra, ジョン・レジェンド"	Tacones Rojos (With John Legend)	"Sebastian Yatra, ジョン・レジェンド"	188746	49	2	2023/5/17 23:34
+恋	星野 源	POP VIRUS	星野 源	251266	53	8	2023/5/24 21:06
+living inside the shell	"Steve Conte, Shanti Snyder"	攻殻機動隊 STAND ALONE COMPLEX　O.S.T.2	菅野よう子	384466	33	8	2023/5/25 19:52
+クロノスタシス	BUMP OF CHICKEN	クロノスタシス	BUMP OF CHICKEN	339870	56	4	2023/6/11 1:19
+Holy (feat. Chance The Rapper)	"ジャスティン・ビーバー, チャンス・ザ・ラッパー"	Holy	"ジャスティン・ビーバー, チャンス・ザ・ラッパー"	212093	67	6	2023/6/13 9:05
+Dope (feat. JID)	"ジョン・レジェンド, JID"	LEGEND	ジョン・レジェンド	158685	34	2	2023/6/20 12:50
+All She Wanna Do	ジョン・レジェンド	LEGEND	ジョン・レジェンド	191052	39	1	2023/6/20 13:01
+Love To Last	Hajaj	Last Call For Coco	Hajaj	163766	1	3	2023/6/20 14:16
+やさしい気持ちで	Superfly	Box Emotions	Superfly	244546	54	8	2023/6/23 17:12
+"Sunflower (Remix) [with Swae Lee, Nicky Jam, and Prince Royce]"	"ポスト・マローン, スワエ・リー, ニッキー・ジャム, Prince Royce, G.O.K.B."	Spider-Man: Into the Spider-Verse (Deluxe Edition / Soundtrack From & Inspired By The Motion Picture)	ヴァリアス・アーティスト	210000	56	7	2023/6/23 19:58
+"Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)"	"Metro Boomin, スワエ・リー, リル・ウェイン, Offset"	METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)	Metro Boomin	231746	72	7	2023/6/23 19:59
+"Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)"	"Metro Boomin, エイサップ・ロッキー, Roisee"	METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)	Metro Boomin	256026	78	8	2023/6/23 20:01
+"All The Way Live (Spider-Man: Across the Spider-Verse) (Metro Boomin & Future, Lil Uzi Vert)"	"Metro Boomin, フューチャー, リル・ウージー・ヴァート"	METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)	Metro Boomin	245240	64	1	2023/6/23 20:01
+Danger (Spider) (Offset & JID)	"Offset, JID"	METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)	Metro Boomin	205266	59	4	2023/6/23 20:02
+"Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)"	"Metro Boomin, スワエ・リー, NAV, A Boogie Wit da Hoodie"	METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)	Metro Boomin	219453	71	2	2023/6/23 20:03
+"Link Up (Metro Boomin & Don Toliver, Wizkid feat. BEAM & Toian) - Spider-Verse Remix (Spider-Man: Across the Spider-Verse )"	"Metro Boomin, Don Toliver, Wizkid, BEAM, Toian"	METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)	Metro Boomin	195386	65	1	2023/6/23 20:17
+Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)	"Metro Boomin, Coi Leray"	METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)	Metro Boomin	189466	73	5	2023/6/23 20:17
+可不ちゃんのカレーうどん狂騒曲	南ノ南	可不ちゃんのカレーうどん狂騒曲	南ノ南	181641	33	3	2023/6/24 20:13
+きゅうくらりん	いよわ	きゅうくらりん	いよわ	217090	52	6	2023/6/24 20:32
+Don't Stop the Clocks	King Gnu	Sympa	King Gnu	136773	48	5	2023/6/28 22:13
+Goodbye Nostalgia	Coda	ジョジョの奇妙な冒険 The anthology songs (2)	Coda	271226	20	8	2023/6/29 21:29
+キンモクセイ	オレンジスパイニクラブ	イラつくときはいつだって	オレンジスパイニクラブ	231933	57	4	2023/6/30 12:40
+月を見ていた - Moongazing	米津玄師	月を見ていた - Moongazing	米津玄師	252340	48	7	2023/6/30 13:00
+スピードと摩擦	amazarashi	世界収束二一一六	amazarashi	211600	39	8	2023/7/3 22:31
+そんなbitterな話	Vaundy	そんなbitterな話	Vaundy	276082	0	4	2023/7/4 20:40
+裏切り者のレクイエム	ハセガワダイスケ	裏切り者のレクイエム	ハセガワダイスケ	210592	45	6	2023/7/5 18:02
+RAGE OF DUST	SPYAIR	KINGDOM	SPYAIR	202586	54	3	2023/7/6 17:24
+Perfect	エド・シーラン	÷ (Deluxe)	エド・シーラン	263400	89	2	2023/7/8 11:39
+Perfect Symphony (Ed Sheeran & Andrea Bocelli)	"エド・シーラン, アンドレア・ボチェッリ"	Perfect Symphony (Ed Sheeran & Andrea Bocelli)	"エド・シーラン, アンドレア・ボチェッリ"	265363	68	3	2023/7/8 11:42
+たられば	amazarashi	地方都市のメメント・モリ	amazarashi	363440	34	3	2023/7/13 18:56
+Distant Dreamer	ダフィー	Rockferry	ダフィー	305666	47	1	2023/7/15 0:47
+Con Te Partirò	アンドレア・ボチェッリ	Bocelli (Remastered)	アンドレア・ボチェッリ	250983	70	1	2023/7/16 12:59
+Fall On Me	"アンドレア・ボチェッリ, Matteo Bocelli"	Songs Of Hope And Comfort (Expanded Edition)	アンドレア・ボチェッリ	258693	11	5	2023/7/16 13:00
+I Believe	"アンドレア・ボチェッリ, キャサリン・ジェンキンス"	Songs Of Hope And Comfort (Expanded Edition)	アンドレア・ボチェッリ	263840	10	5	2023/7/16 13:14
+Bésame Mucho	アンドレア・ボチェッリ	My Love Songs (Expanded Edition)	アンドレア・ボチェッリ	241232	31	2	2023/7/16 13:18
+カラノココロ	Anly	anly one	Anly	264226	57	4	2023/7/24 21:57
+オドループ	フレデリック	oddloop	フレデリック	255293	55	7	2023/7/25 0:41
+人類群星閃耀時 – From THE FIRST TAKE	MIRROR	人類群星閃耀時 – From THE FIRST TAKE	MIRROR	313920	29	8	2023/7/27 21:50
+できっこないを　やらなくちゃ	サンボマスター	サンボマスター　究極ベスト	サンボマスター	217920	60	3	2023/8/1 22:44
+可能性	サンボマスター	サンボマスターとキミ	サンボマスター	310560	45	2	2023/8/1 23:22
+青春狂騒曲	サンボマスター	サンボマスター　究極ベスト	サンボマスター	290173	29	8	2023/8/2 23:01
+Nothing	Bruno Major	To Let A Good Thing Die	Bruno Major	162797	74	1	2023/8/5 14:03
+オールドファッション	back number	MAGIC	back number	254440	71	7	2023/8/5 14:22
+おいしい季節	椎名林檎	ニュートンの林檎	椎名林檎	257000	32	3	2023/8/5 14:39
+きみに会いたい -Dance with you-	宮本浩次	宮本、独歩。	宮本浩次	315453	24	5	2023/8/5 15:02
+Future is Yours	サンボマスター	Future is Yours	サンボマスター	266400	21	2	2023/8/6 8:33
+again	YUI	HOLIDAYS IN THE SUN	YUI	254346	67	1	2023/8/19 0:00
+裏切りの夕焼け	シアターブルック	裏切りの夕焼け	シアターブルック	208586	49	8	2023/8/19 0:01
+Brave Shine	Aimer	DAWN	Aimer	233493	62	7	2023/8/19 0:01
+黄金魂	湘南乃風	黄金魂	湘南乃風	333866	32	4	2023/8/25 0:29
+COCO	Aioz	COCO	Aioz	184421	0	5	2023/8/29 12:28
+カブトムシ	aiko	桜の木の下	aiko	313941	44	7	2023/8/29 15:41
+風が吹く街	ラックライフ	風が吹く街	ラックライフ	249506	47	7	2023/9/5 20:32
+名前を呼ぶよ	ラックライフ	名前を呼ぶよ	ラックライフ	270133	42	8	2023/9/5 20:32
+零 -ZERO-	福山雅治	零 -ZERO-	福山雅治	254960	46	5	2023/9/5 21:15
+チェリー	福山雅治	魂リク	福山雅治	261680	28	6	2023/9/5 21:16
+虹	福山雅治	虹／ひまわり／それがすべてさ	福山雅治	248546	54	8	2023/9/6 13:12
+しるし	ラックライフ	しるし	ラックライフ	252000	26	1	2023/9/9 11:50
+軌跡	ラックライフ	軌跡	ラックライフ	201500	29	5	2023/9/14 10:04
+La Japonaise - New Orchestrated Version	"フレディ・マーキュリー, Montserrat Caballé"	Barcelona (Special Edition)	フレディ・マーキュリー	292440	21	3	2023/9/14 22:32
+Sugar	マルーン５	V Japan Special Edition	マルーン５	235493	62	3	2023/9/18 21:34
+Barcelona	"フレディ・マーキュリー, Montserrat Caballé"	Messenger Of The Gods: The Singles Collection	フレディ・マーキュリー	266586	53	5	2023/9/22 20:07
+空はまるで	Monkey Majik	空はまるで	Monkey Majik	226960	53	5	2023/9/22 20:52
+Around The World	Monkey Majik	thank you	Monkey Majik	222013	49	2	2023/9/22 20:55
+真夜中のドア〜stay with me	松原みき	松原みき ベスト・コレクション	松原みき	312293	54	3	2023/9/30 15:59
+A Christmas Song	"Monkey Majik, 小田和正"	20th Anniversary BEST 花鳥風月	Monkey Majik	306800	26	7	2023/10/9 16:35
+Eden	Monkey Majik	Eden	Monkey Majik	271520	47	8	2023/10/9 16:36
+笑っておくれ	サンボマスター	笑っておくれ	サンボマスター	273600	30	6	2023/10/16 16:24
+昴	谷村新司	今 伝えたい	谷村新司	291880	35	2	2023/10/16 16:28
+下を向いて歩こう	amazarashi	下を向いて歩こう	amazarashi	302786	20	7	2023/10/18 18:05
+Survival of the Illest	ヒプノシスマイク -A.R.B- (Division All Stars)	Survival of the Illest	ヒプノシスマイク -A.R.B- (Division All Stars)	308617	29	5	2023/10/21 20:30
+ひろ	amazarashi	夕日信仰ヒガシズム	amazarashi	419560	28	7	2023/10/24 20:43
+何とかなれ	古井戸	古井戸の世界	古井戸	179533	21	4	2023/10/24 21:19
+SCRAMBLE GAMBLE	"ヒプノシスマイク -D.R.B.- (Fling Posse), ヒプノシスマイク -D.R.B- (有栖川帝統)"	Fling Posse -Before The 2nd D.R.B-	ヒプノシスマイク -D.R.B.- (Fling Posse)	188067	33	1	2023/10/24 21:32
+3$EVEN	"ヒプノシスマイク -D.R.B.- (Fling Posse), ヒプノシスマイク -D.R.B- (有栖川帝統)"	Fling Posse -F.P.S.M-	ヒプノシスマイク -D.R.B.- (Fling Posse)	272559	33	2	2023/10/24 21:32
+Rivals!	"ヒプノシスマイク -D.R.B- (有栖川帝統), ヒプノシスマイク -D.R.B- (観音坂独歩)"	The Block Party -HOMIEs-	ヒプノシスマイク -D.R.B- (Division All Stars)	198093	35	5	2023/10/24 22:30
+インヒューマンエンパシー	amazarashi	永遠市	amazarashi	290293	29	1	2023/10/25 1:25
+アンチノミー	amazarashi	永遠市	amazarashi	300733	41	2	2023/10/25 1:25
+ごめんねオデッセイ	amazarashi	永遠市	amazarashi	360720	30	2	2023/10/25 1:25
+君はまだ夏を知らない	amazarashi	永遠市	amazarashi	369200	26	5	2023/10/25 1:25
+自由に向かって逃げろ	amazarashi	永遠市	amazarashi	297720	25	1	2023/10/25 1:25
+俯きヶ丘	amazarashi	永遠市	amazarashi	130520	22	1	2023/10/25 1:25
+超新星	amazarashi	永遠市	amazarashi	255373	30	4	2023/10/25 1:25
+クレプトマニア	amazarashi	永遠市	amazarashi	99306	23	7	2023/10/25 1:25
+ディザスター	amazarashi	永遠市	amazarashi	253120	31	7	2023/10/25 1:25
+まっさら	amazarashi	永遠市	amazarashi	363333	25	8	2023/10/25 1:25
+Someone You Loved	Lewis Capaldi	Divinely Uninspired To A Hellish Extent	Lewis Capaldi	182160	88	5	2023/10/27 22:41
+Anarchy	Official髭男dism	Anarchy	Official髭男dism	268431	47	5	2023/10/28 23:03
+甲賀忍法帖	陰陽座	臥龍點睛	陰陽座	243053	49	2	2023/11/23 21:57
+終わりで始まり	amazarashi	あんたへ	amazarashi	345080	32	1	2023/11/25 12:49
+美しき思い出	amazarashi	千年幸福論	amazarashi	395493	25	3	2023/11/26 0:15
+海洋生命	amazarashi	アンチノミー	amazarashi	199929	21	6	2023/11/26 9:55
+さよならSilent Night - Full Spec Edition	桐生一馬(黒田崇矢)	龍が如く7 外伝 名を消した男 Original Soundtrack	SEGA SOUND TEAM	308426	22	4	2023/12/4 20:46
+一番歌	"湘南乃風, 中田ヤスタカ"	一番歌	"湘南乃風, 中田ヤスタカ"	301906	39	5	2023/12/4 20:47
+WHITE BREATH	T.M.Revolution	B☆E☆S☆T	T.M.Revolution	238333	54	4	2023/12/8 20:36
+オレンジミント	物語シリーズ	歌物語2　-〈物語〉シリーズ主題歌集-	物語シリーズ	274133	28	7	2023/12/15 23:00
+シルエット	KANA-BOON	TIME	KANA-BOON	240133	78	4	2023/12/18 22:32
+クリスマス	amazarashi	ワンルーム叙事詩	amazarashi	349986	36	7	2023/12/19 23:17
+ユメマカセ feat. Yojiro Noda	"SOIL & “PIMP” SESSIONS, 野田洋次郎"	ユメマカセ feat. Yojiro Noda	SOIL & “PIMP” SESSIONS	227420	21	1	2023/12/22 21:48
+ランデヴー	シャイトープ	誘拐 / ランデヴー	シャイトープ	237739	60	3	2023/12/26 21:19
+WHAT YOU WON'T DO FOR LOVE	ボビー・コールドウェル	BOBBY CALDWELL	ボビー・コールドウェル	286640	44	8	2023/12/27 11:19
+Just the Two of Us	"Grover Washington\, Jr., Bill Withers"	Winelight	"Grover Washington\, Jr."	443773	72	1	2023/12/27 11:37
+木枯らしセンティメント	物語シリーズ	歌物語 Special Edition	物語シリーズ	277466	30	7	2023/12/27 12:12
+欲望に満ちた青年団	ONE OK ROCK	ゼイタクビョウ	ONE OK ROCK	202200	63	7	2023/12/27 15:20
+君は薔薇より美しい	布施明	エッセンシャル・ベスト 布施明	布施明	182680	43	4	2024/1/5 23:45
+Private Time	"ヒプノシスマイク -D.R.B- (入間銃兎), ヒプノシスマイク -D.R.B- (毒島メイソン理鶯)"	CROSS A LINE (Complete Edition)	ヒプノシスマイク -D.R.B- (Division All Stars)	196213	26	7	2024/1/6 0:15
+チグリジア	"ヒプノシスマイク -D.R.B- (麻天狼), ヒプノシスマイク -D.R.B- (観音坂独歩)"	麻天狼-音韻臨床-	ヒプノシスマイク -D.R.B- (麻天狼)	220914	34	3	2024/1/9 20:27
+魔法の言葉	Monkey Majik	BEST -A.RI.GA.TO-	Monkey Majik	212146	9	3	2024/1/12 1:35
+SAKURA	Monkey Majik	BEST -A.RI.GA.TO-	Monkey Majik	264373	27	8	2024/1/12 1:35
+Headlight	Monkey Majik	BEST -A.RI.GA.TO-	Monkey Majik	320000	16	4	2024/1/12 1:36
+クリスマスキャロルの頃には - NORTH FLOW	"Monkey Majik, 稲垣潤一, GAGLE"	クリスマスキャロルの頃には (NORTH FLOW)	"Monkey Majik, 稲垣潤一, GAGLE"	338660	32	4	2024/1/15 17:54
+Own Stage	"ヒプノシスマイク -D.R.B- (どついたれ本舗), ヒプノシスマイク -D.R.B- (躑躅森盧笙)"	あゝオオサカdreamin'night	ヒプノシスマイク -D.R.B- (どついたれ本舗)	227087	30	1	2024/1/15 23:08
+I'm a mess	MY FIRST STORY	告白 - Confession	MY FIRST STORY	249480	60	3	2024/1/16 19:09
+fast love	物語シリーズ	恋物語 劇伴音楽集	物語シリーズ	276480	25	7	2024/1/19 20:36
+dark cherry mystery	物語シリーズ	歌物語2　-〈物語〉シリーズ主題歌集-	物語シリーズ	231120	28	5	2024/1/19 20:45
+美しき残酷な世界	日笠陽子	美しき残酷な世界【通常盤】- EP	日笠陽子	296573	39	5	2024/1/19 21:54
+時計台の鐘	eastern youth	時計台の鐘	eastern youth	253253	0	5	2024/1/19 22:01
+はらぺこ日和 - Full Spec Edition	遥(釘宮 理恵)	龍が如く 維新! オリジナルサウンドトラック (Vol.2)	SEGA SOUND TEAM	196432	10	4	2024/1/23 17:08
+ラブソング	amazarashi	ラブソング	amazarashi	279546	32	4	2024/1/25 17:52
+September	アース・ウィンド＆ファイア	"Now, Then & Forever"	アース・ウィンド＆ファイア	221520	2	1	2024/1/29 14:57
+etoile et toi [edition le blanc]	物語シリーズ	傷物語 劇伴音楽集	物語シリーズ	362586	13	1	2024/1/29 22:28
+星界ちゃんと可不ちゃんのおつかい合騒曲	南ノ南	みなみのいずむ-20212022-	南ノ南	205466	31	3	2024/1/31 16:11
+ニワカ雨ニモ負ケズ	NICO Touches the Walls	ニコ タッチズ ザ ウォールズ ノ ベスト	NICO Touches the Walls	261653	59	2	2024/2/3 13:09
+Sleep Walking Orchestra	BUMP OF CHICKEN	Sleep Walking Orchestra	BUMP OF CHICKEN	235659	56	7	2024/2/4 12:56
+FREEDOM	"西川貴教, 小室哲哉"	FREEDOM	西川貴教	318320	48	3	2024/2/4 12:56
+The Good Life	Monkey Majik	The Good Life	Monkey Majik	186404	27	8	2024/2/5 15:45
+消えるdaydream	河野 マリナ	歌物語 Special Edition	物語シリーズ	277773	20	2	2024/2/5 15:55
+chocolate insomnia	物語シリーズ	歌物語 Special Edition	物語シリーズ	279280	29	1	2024/2/5 15:56
+天体観測	BUMP OF CHICKEN	jupiter	BUMP OF CHICKEN	263600	65	5	2024/2/6 11:41
+"Hello,world!"	BUMP OF CHICKEN	Butterflies	BUMP OF CHICKEN	248453	59	1	2024/2/6 11:41
+snowdrop　-春奈るな×河野マリナver.-	春奈るな	歌物語 Special Edition	物語シリーズ	309093	21	8	2024/2/6 22:21
+INVOKE -インヴォーク-	T.M.Revolution	1000000000000	T.M.Revolution	258532	53	3	2024/2/6 22:48
+HOT LIMIT	T.M.Revolution	B☆E☆S☆T	T.M.Revolution	220000	54	2	2024/2/8 3:20
+死ぬな！	こっちのけんと	死ぬな！	こっちのけんと	208042	53	2	2024/2/18 16:26
+去り際のロマンティクス	See-Saw	劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス	See-Saw	276160	42	1	2024/2/26 0:34
+1・2・3	西川くんとキリショー	1・2・3	西川くんとキリショー	296416	36	3	2024/2/29 19:42
+Meteor -ミーティア-	T.M.Revolution	coordinate	T.M.Revolution	250853	52	4	2024/3/13 9:49
+望郷	中島美嘉	望郷	中島美嘉	231833	32	2	2024/3/13 9:50
+俺たちの明日	エレファントカシマシ	俺たちの明日	エレファントカシマシ	375666	47	2	2024/3/20 22:06
+Eye of the Tiger	Survivor	Eye Of The Tiger	Survivor	243773	78	1	2024/3/29 14:35
+Count ZERO	T.M.Revolution	天	T.M.Revolution	240466	28	3	2024/4/10 20:57
+ロキ	みきとP	DAISAN WAVE	みきとP	230400	55	3	2024/4/10 23:06
+ウミユリ海底譚	n-buna	花と水飴、最終電車	n-buna	236068	53	8	2024/4/10 23:08
+音偽バナシ (feat. 初音ミク)	"DECO*27, 初音ミク"	Conti New	DECO*27	228921	22	1	2024/4/10 23:09
+命にふさわしい	amazarashi	命にふさわしい	amazarashi	359520	26	3	2024/4/10 23:16
+あんなに一緒だったのに	See-Saw	あんなに一緒だったのに	See-Saw	288266	35	8	2024/4/15 22:24
+かつて焼け落ちた町	amazarashi	七号線ロストボーイズ	amazarashi	288023	26	8	2024/5/10 7:20
+SUN	星野 源	SUN	星野 源	243800	44	5	2024/5/28 11:04
+さよならはエモーション	サカナクション	834.194	サカナクション	259000	54	8	2024/5/31 16:02
+Goodbye My Lover	ジェイムズ・ブラント	Back to Bedlam	ジェイムズ・ブラント	258653	70	5	2024/6/2 10:21
+アムスフィッシュ	サカナクション	Night Fishing	サカナクション	387943	36	7	2024/6/14 9:29
+テレキャスター・ヒーロー	ORCALAND	HERO'S HIGH	ORCALAND	225960	22	7	2024/6/23 17:59
+Journey	ORCALAND	Travel Notes	ORCALAND	231720	3	8	2024/6/23 19:42
+反省している	ORCALAND	Travel Notes	ORCALAND	92853	10	1	2024/6/25 12:11
+Please Please Please	サブリナ・カーペンター	Please Please Please	サブリナ・カーペンター	186365	80	6	2024/7/1 19:26
+Scramble	Monkey Majik	Scramble	Monkey Majik	176053	19	1	2024/7/3 21:30
+Into the Sky	"SawanoHiroyuki[nZk], Tielle"	2V-ALK	SawanoHiroyuki[nZk]	231480	48	8	2024/7/4 20:49
+やめちまいてぇ	ORCALAND	やめちまいてぇ	ORCALAND	221813	5	3	2024/7/6 9:52
+"Wake Up, Get Up, Get Out There"	Lyn	『ペルソナ5』オリジナル・サウンドトラック	アトラスサウンドチーム	277826	40	4	2024/7/6 17:27
+Life Will Change	Lyn	『ペルソナ5』オリジナル・サウンドトラック	アトラスサウンドチーム	262026	44	5	2024/7/6 17:28
+sky's the limit	平田志穂子	ペルソナ4　1	ペルソナ4	254400	42	4	2024/7/6 17:30
+BREAK IN TO BREAK OUT	Lyn	BREAK IN TO BREAK OUT	Lyn	283240	43	7	2024/7/6 17:31
+Dark Sun...	Lyn	Dark Sun...	Lyn	249440	41	7	2024/7/6 17:31
+目が明く藍色	サカナクション	kikUUiki	サカナクション	414832	50	8	2024/7/8 13:12
+ジュブナイル	amazarashi	ねえママ　あなたの言うとおり	amazarashi	269520	34	2	2024/7/13 4:35
+輝きだして走ってく	サンボマスター	ラブ＆ピース！マスターピース！	サンボマスター	271666	49	7	2024/7/16 18:34
+愛・おぼえていますか	ランカ・リー=中島愛	「マクロスF」VOCAL COLLECTION　娘たま♀	菅野よう子	297997	24	6	2024/7/18 13:27
+ダイアモンド クレバス	シェリル・ノーム starring May'n   	「マクロスF」VOCAL COLLECTION　娘たま♀	菅野よう子	354640	21	8	2024/7/18 14:55
+Pop Virus	星野 源	POP VIRUS	星野 源	182000	56	2	2024/7/23 10:20
+Bicycle Race - Remastered 2011	クイーン	Jazz (2011 Remaster)	クイーン	180813	60	1	2024/7/31 9:56
+Aoi	サカナクション	sakanaction	サカナクション	256120	60	7	2024/8/3 23:11
+Black Bird	Aimer	Penny Rain	Aimer	227200	43	7	2024/8/5 12:31
+ヒロイン	back number	シャンデリア	back number	269786	76	1	2024/8/6 0:03
+雨男	amazarashi	夕日信仰ヒガシズム	amazarashi	342986	33	6	2024/8/14 13:11
+ハルキオンザロード	amazarashi	地方都市のメメント・モリ	amazarashi	321400	25	7	2024/8/19 14:52
+シュガーソングとビターステップ	UNISON SQUARE GARDEN	UNISON SQUARE GARDEN The 1st Collection for streaming	UNISON SQUARE GARDEN	253226	57	4	2024/8/21 14:22
+フォトフレーム	ORCALAND	それならば-EP	ORCALAND	255546	3	1	2024/9/8 21:36
+最近のこと	ORCALAND	Travel Notes	ORCALAND	323706	13	1	2024/9/9 21:16
+タクシードライバー	amazarashi	世界収束二一一六	amazarashi	313480	26	4	2024/9/21 10:48
+アイコトバ	サクラメリーメン	アイコトバ	サクラメリーメン	256105	21	8	2024/10/2 16:17
+今宵の月のように	エレファントカシマシ	明日に向かって走れ-月夜の歌-	エレファントカシマシ	252706	62	6	2024/10/8 19:56
+今晩はお月さん	ハンバート ハンバート	道はつづく	ハンバート ハンバート	225933	14	4	2024/10/8 19:57
+愛す	クリープハイプ	愛す	クリープハイプ	257040	38	1	2024/10/16 21:26
+ひとりごつ	ハチワレ(CV:田中 誠人)	ひとりごつ	ハチワレ(CV:田中 誠人)	90943	46	4	2024/10/30 8:14
+眷戀	DizLike	眷戀	DizLike	252400	18	8	2024/11/7 22:55
+YUBIKIRI-GENMAN	Mili	Mag Mell	Mili	235831	26	5	2024/11/7 23:21
+βinαrΨ	Ring	pOst - Вавилон epoko	Ring	271955	31	7	2024/11/12 20:35
+君のベストライフ	amazarashi	君のベストライフ	amazarashi	194526	25	7	2024/11/13 12:26
+你說你	DizLike	眼淚養成計劃	DizLike	226199	16	3	2024/11/22 15:52
+Leave The Door Open	"ブルーノ・マーズ, アンダーソン・パーク, Silk Sonic"	An Evening With Silk Sonic	"ブルーノ・マーズ, アンダーソン・パーク, Silk Sonic"	242096	70	7	2024/11/24 15:27
+この街で生きている	amazarashi	アノミー	amazarashi	366693	17	6	2024/11/25 8:53
+グッドバイ	サカナクション	834.194	サカナクション	283000	48	2	2024/11/25 11:22
+夜の踊り子	サカナクション	sakanaction	サカナクション	302920	58	2	2024/12/1 18:31
+it’s okay	LANA	it’s okay	LANA	146935	54	6	2024/12/1 22:46
+女の子に戻るとき〜The dreaming girl in me〜	菊地成孔	オリジナル・サウンドトラック「機動戦士ガンダム　サンダーボルト」	菊地成孔	241440	34	5	2024/12/6 15:02
+"ただ泣くだけ〜Oh god, I'm alone〜"	菊地成孔	オリジナル・サウンドトラック「機動戦士ガンダム　サンダーボルト」	菊地成孔	200746	33	7	2024/12/6 15:02
+ただ二人だけ〜We're the only ones here in this world〜	菊地成孔	オリジナル・サウンドトラック「機動戦士ガンダム　サンダーボルト」	菊地成孔	214333	29	2	2024/12/6 15:02
+可愛いあたし	"菊地成孔, 市川愛"	オリジナル・サウンドトラック「機動戦士ガンダム　サンダーボルト」2	菊地成孔	163133	9	6	2024/12/6 15:03
+忘れられないの	サカナクション	834.194	サカナクション	238000	63	5	2024/12/12 10:44
+Goodnight Goodnight	マルーン５	It Won't Be Soon Before Long (International Version)	マルーン５	243320	57	6	2024/12/20 9:58
+Cigarette Daydreams	Cage The Elephant	Melophobia	Cage The Elephant	208760	79	7	2025/1/5 19:58
+My Way - 2008 Remastered	フランク・シナトラ	Nothing But The Best (2008 Remastered)	フランク・シナトラ	276253	74	7	2025/1/5 20:02
+Photograph	エド・シーラン	x (Deluxe Edition)	エド・シーラン	258986	87	5	2025/1/5 20:14
+花痕 -shirushi-	河野 マリナ	歌物語 Special Edition	物語シリーズ	272946	24	3	2025/1/7 14:51
+言葉にできない	小田和正	自己ベスト	小田和正	309773	30	3	2025/1/8 17:46
+Good Luck	evening cinema	Good Luck	evening cinema	249471	5	8	2025/1/8 20:52
+summertime	"cinnamons, evening cinema"	summertime	"cinnamons, evening cinema"	251818	46	7	2025/1/9 11:30
+夜明けまえ	evening cinema	A HEART WAVE	evening cinema	233757	5	1	2025/1/9 11:31
+嵐の中で輝いて	米倉千尋	25 YEARS AFTER ～All Time Best～	米倉千尋	256894	40	7	2025/1/10 16:25
+瞬間センチメンタル	SCANDAL	TEMPTATION　BOX	SCANDAL	224626	57	2	2025/1/10 16:27
+射手座☆午後九時Don't be late	シェリル・ノーム starring May'n   	「マクロスF」エンディングテーマ　ダイアモンド クレバス／挿入歌　射手座☆午後九時Don't be late	シェリル・ノーム starring May'n   	343154	39	8	2025/1/10 16:29
+ヒューマノイド	ずっと真夜中でいいのに。	正しい偽りからの起床	ずっと真夜中でいいのに。	259320	27	7	2025/1/14 14:33
+サターン	ずっと真夜中でいいのに。	正しい偽りからの起床	ずっと真夜中でいいのに。	250000	52	7	2025/1/14 14:33
+白波トップウォーター	サカナクション	魚図鑑	サカナクション	330000	29	3	2025/1/19 0:41
+Winter Wonderland	マイケル・ブーブレ	Christmas (Deluxe Special Edition)	マイケル・ブーブレ	149453	8	8	2025/1/19 0:52
+幾億光年	Omoinotake	幾億光年	Omoinotake	276918	67	2	2025/1/20 16:31
+ライオン	"May'n, 中島愛"	「マクロスF」VOCAL COLLECTION　娘たま♀	菅野よう子	305065	32	5	2025/1/20 17:09
+Plazma	米津玄師	Plazma	米津玄師	180832	70	2	2025/1/23 15:05
+WHITE REFLECTION	TWO-MIX	WHITE REFLECTION	TWO-MIX	288266	46	5	2025/1/24 14:20
+粉雪	レミオロメン	HORIZON	レミオロメン	325773	66	1	2025/1/24 19:05
+水の星へ愛をこめて	森口博子	水の星へ愛をこめて	森口博子	221666	0	4	2025/1/30 21:29
+永遠にアムロ feat.影山ヒロノブ	"鮎川麻弥, 影山ヒロノブ"	Reply～Mami Ayukawa 25th Anniversary Best Album～	鮎川麻弥	202346	2	2	2025/1/30 21:30
+I CAN'T DO ANYTHING-宇宙よ-	"服部隆之 Presents GUNDAM THE ORIGIN, AYA"	I CAN'T DO ANYTHING-宇宙よ-	服部隆之 Presents GUNDAM THE ORIGIN	324400	21	7	2025/1/30 21:35
+宇宙の彼方で	森口博子	宇宙の彼方で	森口博子	335266	18	1	2025/1/30 21:36
+永遠にアムロ / with VOJA	森口博子	Ubugoe	森口博子	192834	10	2	2025/2/2 20:56
+痛覚	amazarashi	痛覚	amazarashi	269777	40	1	2025/2/5 19:17
+私以外私じゃないの	ゲスの極み乙女	両成敗	ゲスの極み乙女	232613	57	2	2025/2/9 3:27
+忘れないで 忘れないで	サンボマスター	忘れないで 忘れないで	サンボマスター	207013	36	2	2025/2/10 22:06
+AURA	谷村新司	AURA	谷村新司	291733	18	7	2025/2/13 16:24
+怪獣	サカナクション	怪獣	サカナクション	252722	74	3	2025/2/22 23:19
+放課後オーバーフロウ	ランカ・リー=中島愛	「劇場版 マクロスF ～サヨナラノツバサ～」放課後オーバーフロウ	ランカ・リー=中島愛	329224	33	1	2025/2/25 15:38
+私の彼はパイロット	ランカ・リー=中島愛	「マクロスF」VOCAL COLLECTION　娘たま♀	菅野よう子	166092	23	7	2025/2/25 15:38
+め組のひと	ラッツ & スター	SOUL VACATION	ラッツ & スター	207840	52	6	2025/2/25 15:47
+青い珊瑚礁	松田聖子	青い珊瑚礁	松田聖子	221000	52	6	2025/2/25 16:17
+何度でも	ドリームズ・カム・トゥルー	THE LOVE ROCKS	ドリームズ・カム・トゥルー	232733	44	3	2025/2/27 14:57
+ナイトメア	amazarashi	ゴースト	amazarashi	233889	34	5	2025/4/23 19:23
+黎明期	amazarashi	ゴースト	amazarashi	233489	36	7	2025/4/23 19:23
+おんなじ髑髏	amazarashi	ゴースト	amazarashi	299077	36	4	2025/4/23 19:23
+小市民イーア	amazarashi	ゴースト	amazarashi	221525	36	5	2025/4/23 19:23
+アンアライブ	amazarashi	ゴースト	amazarashi	247734	35	2	2025/4/23 19:23
+収容室	amazarashi	ゴースト	amazarashi	288809	35	8	2025/4/23 19:24
+どうなったって	amazarashi	ゴースト	amazarashi	340827	33	2	2025/4/23 19:24
+夕日解放同盟	amazarashi	ゴースト	amazarashi	293947	30	8	2025/4/23 19:24
+不眠症の見張り番	amazarashi	ゴースト	amazarashi	355669	32	4	2025/4/23 19:24
+ゴースト	amazarashi	ゴースト	amazarashi	395821	36	2	2025/4/23 19:24
+テノヒラスパイラル	ORCALAND	ぶちあげる-EP	ORCALAND	205480	8	1	2025/4/30 22:32
+毒矢	名無し之太郎	毒矢	名無し之太郎	263693	17	7	2025/5/8 23:31
+End of Beginning	Djo	DECIDE	Djo	159245	94	3	2025/5/21 15:40
+それを言葉という	amazarashi	さよならごっこ	amazarashi	330720	25	7	2025/6/1 22:54
+夏の日、残像	amazarashi	AKG TRIBUTE	ヴァリアス・アーティスト	240826	26	2	2025/6/7 15:18
+花束	サンボマスター	花束	サンボマスター	328026	39	1	2025/6/9 11:05
+君という花	KANA-BOON	君という花	KANA-BOON	368546	17	3	2025/6/12 19:50
+Re:Re:	ASIAN KUNG-FU GENERATION	ソルファ	ASIAN KUNG-FU GENERATION	228760	62	3	2025/6/12 19:51
+ロックンロール イズ ノットデッド	サンボマスター	ロックンロール イズ ノットデッド	サンボマスター	300306	43	2	2025/7/2 0:27
+悲しみがとまらない　I CAN'T STOP THE LONELINESS	杏里	Timely!!	杏里	263706	70	3	2025/7/5 13:43
+『バッハの旋律を夜に聴いたせいです。』	サカナクション	『バッハの旋律を夜に聴いたせいです。』	サカナクション	237300	39	7	2025/7/8 9:45
+BEYOND THE TIME (メビウスの宇宙を越えて)	TM NETWORK	機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック	三枝成彰	291973	42	2	2025/7/12 8:11
+SAD!	XXXTENTACION	? (Deluxe)	XXXTENTACION	166605	47	1	2025/7/17 18:56
+大阪LOVER	ドリームズ・カム・トゥルー	大阪LOVER	ドリームズ・カム・トゥルー	266560	67	1	2025/7/24 13:38
+ZAYN - PILLOWTALK (Cover by Taka from ONE OK ROCK)	ONE OK ROCK	ZAYN - PILLOWTALK (Cover by Taka from ONE OK ROCK)		214000	0	4	2025/7/24 17:32
+polyester (yes sir)	Sorry Ghost	polyester (yes sir)	Sorry Ghost	175779	35	6	2025/8/15 13:55
+Spoken For	FLAVOR FOLEY	Spoken For	FLAVOR FOLEY	244782	69	3	2025/8/17 9:47
+熱帯夜	RIP SLYME	熱帯夜	RIP SLYME	290893	50	5	2025/8/25 19:24
+生活の果てに音楽が鳴る	amazarashi	痛覚	amazarashi	241631	35	5	2025/8/25 19:33
+Highway to Hell	AC/DC	Highway to Hell	AC/DC	208110	87	7	2025/9/8 1:09
+Baba O'Riley	ザ・フー	Who's Next (Deluxe Edition)	ザ・フー	300400	75	6	2025/9/11 22:09
+Behind Blue Eyes	ザ・フー	Who's Next (Deluxe Edition)	ザ・フー	221426	70	7	2025/9/11 22:10
+関係NIGHT FEVER	ORCALAND	HERO'S HIGH	ORCALAND	206080	17	3	2025/9/13 23:55
+box breathing	Sorry Ghost	box breathing	Sorry Ghost	203206	40	5	2025/9/24 21:40
+Don't Stop Me Now - Remastered 2011	クイーン	Jazz (2011 Remaster)	クイーン	209413	84	7	2025/9/29 12:00
+I Was Born to Love You	フレディ・マーキュリー	Messenger Of The Gods: The Singles Collection	フレディ・マーキュリー	219373	58	5	2025/9/29 12:03
+カワキヲアメク	美波	カワキヲアメク	美波	251933	72	1	2025/10/6 17:43
+"Komm, süsser Tod／甘き死よ、来たれ(M-10 Director's Edit. Version)"	Arianne	NEON GENESIS EVANGELION SOUNDTRACK 25th ANNIVERSARY BOX	ヴァリアス・アーティスト	466333	42	5	2025/10/8 17:13
+Stunner	Carter Vail	Stunner	Carter Vail	135666	44	1	2025/10/8 17:39
+ハレルヤ	amazarashi	ラブソング	amazarashi	292826	30	8	2025/10/12 14:03
+Lilium (From ''Elfen Lied'')	"Grissini Project, Kayo Konishi\, Yukio Kondō"	"Grissini Project : Musique de jeux vidéos, animés et films"	Grissini Project	246170	45	8	2025/10/21 20:12
+Dive	エド・シーラン	÷ (Deluxe)	エド・シーラン	238440	77	3	2025/10/21 22:01
+No.4	Chevon	Chevon	Chevon	206338	47	5	2025/10/27 14:41
+エンディングテーマ	amazarashi	世界収束二一一六	amazarashi	369480	34	5	2025/10/29 9:01
+なんでもないよ、	マカロニえんぴつ	ハッピーエンドへの期待は	マカロニえんぴつ	219252	69	5	2025/11/6 17:15
+傀儡謡_怨恨みて散る	西田和枝社中	イノセンス　O.S.T.	川井憲次	220433	23	3	2025/11/7 16:00
+傀儡謡_新世に神集ひて	西田和枝社中	イノセンス　O.S.T.	川井憲次	311900	21	6	2025/11/7 16:00
+That's Life	フランク・シナトラ	That's Life	フランク・シナトラ	187040	74	6	2025/11/12 21:22
+Cheek To Cheek	"エラ・フィッツジェラルド, ルイ・アームストロング"	Ella and Louis	"エラ・フィッツジェラルド, ルイ・アームストロング"	353266	64	7	2025/11/13 13:27
+Fly Me To The Moon (In Other Words)	"フランク・シナトラ, カウント・ベイシー"	Sinatra/Basie: The Complete Reprise Studio Recordings	"フランク・シナトラ, カウント・ベイシー"	147000	74	4	2025/11/13 13:29
+街のドルフィン	濱田金吾	midnight cruisin'	濱田金吾	232893	63	7	2025/11/21 19:58
+ETERNAL WIND～ほほえみは光る風の中～	森口博子	ETERNAL WIND～ほほえみは光る風の中～	森口博子	285333	33	3	2025/12/6 0:20
+隅田川	amazarashi	爆弾の作り方	amazarashi	380253	32	8	2025/12/12 7:33
+悲しみ一つも残さないで	amazarashi	地方都市のメメント・モリ	amazarashi	351746	25	2	2025/12/12 7:37
+what if we both loved each other still?	"88rising, Stephanie Poetri, PISCEE"	what if we both loved each other still?	"88rising, Stephanie Poetri, PISCEE"	235280	53	8	2025/12/24 15:58
+Little Ray Of Light	Rich Brian	Little Ray Of Light	Rich Brian	179841	40	7	2025/12/24 16:01
