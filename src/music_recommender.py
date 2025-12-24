@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 from typing import List
+from typing import List, cast
 
 def precision_k(actual: List, predicted: List, k: int = 10) -> float:
     """Precision@K"""
@@ -92,9 +93,10 @@ class ItemBasedCFRecommender:
 
         self.item_sim_matrix = cosine_similarity(R_user_centered.T)
 
-        self.popularity_rank = (
+        self.popularity_rank: List[str] = cast(
+            List[str],
             df.groupby("item_id")["人気度"]
-              .mean()
+                .mean()
               .sort_values(ascending=False)
               .index
               .tolist()
