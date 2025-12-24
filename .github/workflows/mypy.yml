@@ -22,4 +22,4 @@ jobs:
 
       - name: Run mypy
         run: |
-          mypy src
+          PYTHONPATH=. mypy src
